@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Chlorine
+
+			Atomic Number			: 17
+
+			Symbol				: Cl
+
+			Period				: 3
+
+			Group				: 7 [ VII A]
+
+			Classification			: Halogen
+
+			State				: Gas
+
+			Atomic Weight			: 35.4527  (g/mol)
+
+			Atomic Volume			: 18.7  (cubic.cm/mol)
+
+			Atomic Radius			: 97  (Picometers)
+
+			Density				: 3.214 ( Gas , 273k )
+
+			Electro Negativity		: 3.16
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.0089  W/m/K (at 300K)
+
+			Melting Point			: 172.2  K
+
+			Boiling Point			: 238.6  K
+
+			Specific Heat			: 0.48  J/g/K    (at 300K)
+
+			Fusion Heat			: 3.21  kJ/mol
+
+			Evaporation Heat		: 10.2  kJ/mol
+
+			Covalent Radius			: 99  (Picometers)
+
+			Ionic Radius			: 2700  (Picometers, +7e), 18100 (Picometers, -1e)
+
+			Ionization Energy		: 12.967  kJ/mol
+
+			Oxidation States		: 7, 5, 3, 1
+
+			Crystal Structure		: Ortho Rhombic ( ORC )
+
+			Crystal Constant		: 624  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s2 3p5
+
+			Discovered			: 1774
+
+			Discoverer			: Carl Wilhelm Scheele
+
+			Appearance			: Greenish - Yellow , Dis-Agreeable gas
+
+			Name Origin			: Greek: Chlorus ( Greenish - yellow )

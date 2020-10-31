@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Nitrogen
+
+			Atomic Number			: 7
+
+			Symbol				: N
+
+			Period				: 2
+
+			Group				: 15 [ V A]
+
+			Classification			: Non - Metal
+
+			State				: Gas
+
+			Atomic Weight			: 14.0067  (g/mol)
+
+			Atomic Volume			: 17.3  (cubic.cm/mol)
+
+			Atomic Radius			: 0.0092  (Picometers)
+
+			Density				: 1.251  (Gas, 273K, g/l)
+
+			Electro Negativity		: 3.04
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.02598  W/m/K (at 300K)
+
+			Melting Point			: 63.29  K
+
+			Boiling Point			: 77.4  K
+
+			Specific Heat			: 1.042  J/g/K  (at 300K)
+
+			Fusion Heat			: 0.36  kJ/mol
+
+			Evaporation Heat		: 2.7928  kJ/mol
+
+			Covalent Radius			: 0.0075  (Picometers)
+
+			Ionic Radius			: 1300  (Picometers, +5e),  17100  (Picometers, -3e)
+
+			Ionization Energy		: 14.534  kJ/mol
+
+			Oxidation States		: 5, 4, 3, 2
+
+			Crystal Structure		: Hexagonal ( HEX)
+
+			Crystal Constant		: 403.9  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s2 2p3
+
+			Discovered			: 1772
+
+			Discoverer			: Daniel Ruthorford
+
+			Appearance			: Colorless, Odorless, Tasteless and generally Inert gas
+
+			Name Origin			: Greek - Nitron and genes ( soda forming ).

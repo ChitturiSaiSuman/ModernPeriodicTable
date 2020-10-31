@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Gallium
+
+			Atomic Number			: 31
+
+			Symbol				: Ga
+
+			Period				: 4
+
+			Group				: 13 [ III A ]
+
+			Classification			: Other Metal
+
+			State				: Solid
+
+			Atomic Weight			: 69.723  (g/mol)
+
+			Atomic Volume			: 11.8  (cubic.cm/mol)
+
+			Atomic Radius			: 141  (Picometers)
+
+			Density				: 5.91
+
+			Electro Negativity		: 1.81
+
+			Electro Conductivity		: 1.8
+
+			Thermal Conductivity		: 40.6  W/m/K (at 300K)
+
+			Melting Point			: 302.93  K
+
+			Boiling Point			: 2676  K
+
+			Specific Heat			: 0.371  J/g/K    (at 300K)
+
+			Fusion Heat			: 5.59  kJ/mol
+
+			Evaporation Heat		: 256.06  kJ/mol
+
+			Covalent Radius			: 126  (Picometers)
+
+			Ionic Radius			: 6200  (Picometers, +3e) ,  8100 (Picometers, +1e)
+
+			Ionization Energy		: 5.999  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Orthorhombic (ORC)
+
+			Crystal Constant		: 451  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s2 4p1
+
+			Discovered			: 1875
+
+			Discoverer			: Paul - Emile Lecoq de Boisbaudra
+
+			Appearance			: Soft, Blue-White Metal
+
+			Name Origin			: Latin: Gallia ( France ).

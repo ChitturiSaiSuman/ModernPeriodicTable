@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Oxygen
+
+			Atomic Number			: 8
+
+			Symbol				: O
+
+			Period				: 2
+
+			Group				: 16 [ VI A]
+
+			Classification			: Non - Metal
+
+			State				: Gas
+
+			Atomic Weight			: 15.994  (g/mol)
+
+			Atomic Volume			: 14  (cubic.cm/mol)
+
+			Atomic Radius			: 65  (Picometers)
+
+			Density				: 1.429  (Gas, 273K, g/l)
+
+			Electro Negativity		: 3.44
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.2674  W/m/K  (at 300K)
+
+			Melting Point			: 54.8  K
+
+			Boiling Point			: 90.19  K
+
+			Specific Heat			: 0.92  J/g/K  (at 300K)
+
+			Fusion Heat			: 0.222  kJ/mol
+
+			Evaporation Heat		: 3.4109  kJ/mol
+
+			Covalent Radius			: 73  (Picometers)
+
+			Ionic Radius			: 13200  (Picometers, -1e)
+
+			Ionization Energy		: 13.618  kJ/mol
+
+			Oxidation States		: -2, -1
+
+			Crystal Structure		: Cubic (CUB)
+
+			Crystal Constant		: 683  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s2 2p4
+
+			Discovered			: 1774
+
+			Discoverer			: Joseph Priestly, Cari Wilhelm
+
+			Appearance			: Colorless, Odorless, Tasteless gas, Pale Blue Liquid
+
+			Name Origin			: Greek - Oxys and genes ( acid former )

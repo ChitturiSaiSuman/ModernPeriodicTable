@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Dysprosium
+
+			Atomic Number			: 66
+
+			Symbol				: Dy
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 162.5  (g/mol)
+
+			Atomic Volume			: 19  (cubic.cm/mol)
+
+			Atomic Radius			: 180  (Picometers)
+
+			Density				: 8.55
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: 1.1
+
+			Thermal Conductivity		: 10.7  W/m/K (at 300K)
+
+			Melting Point			: 1685  K
+
+			Boiling Point			: 2835  K
+
+			Specific Heat			: 0.173  J/g/K    (at 300K)
+
+			Fusion Heat			: 11.06  kJ/mol
+
+			Evaporation Heat		: 230  kJ/mol
+
+			Covalent Radius			: 159  (Picometers)
+
+			Ionic Radius			: 9080 (Picometers, +3e) 
+
+			Ionization Energy		: 5.93  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 359  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f10 6s2
+
+			Discovered			: 1886
+
+			Discoverer			: Paul - Emile lecoq de Boisbaudra
+
+			Appearance			: Soft, Lustrous, Silvery metal
+
+			Name Origin			: Greek: Dysprositos (hard to get at).

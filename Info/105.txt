@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Dubnium
+
+			Atomic Number			: 105
+
+			Symbol				: Db
+
+			Period				: 7
+
+			Group				: 5 [ V  B ]
+
+			Classification			: Transition Metal
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 262  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0   W/m/K (at 300K)
+
+			Melting Point			: --  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: --  kJ/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f14 6d3 7s2
+
+			Discovered			: 1967
+
+			Discoverer			: G.N. Flerov (Dubna/USSR)
+
+			Appearance			: Radioactive, Synthetic Metal
+
+			Name Origin			: Joint Institute for Nuclear Reasearch at Dubna.

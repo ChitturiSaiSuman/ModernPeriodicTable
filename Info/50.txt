@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Tin
+
+			Atomic Number			: 50
+
+			Symbol				: Sn
+
+			Period				: 5
+
+			Group				: 14 [ IV A ]
+
+			Classification			: Other Metal
+
+			State				: Solid
+
+			Atomic Weight			: 118.71  (g/mol)
+
+			Atomic Volume			: 16.3  (cubic.cm/mol)
+
+			Atomic Radius			: 162  (Picometers)
+
+			Density				: 7.31
+
+			Electro Negativity		: 1.96
+
+			Electro Conductivity		: 8.7
+
+			Thermal Conductivity		: 66.6  W/m/K (at 300K)
+
+			Melting Point			: 505.1  K
+
+			Boiling Point			: 2543  K
+
+			Specific Heat			: 0.228  J/g/K    (at 300K)
+
+			Fusion Heat			: 7.2  kJ/mol
+
+			Evaporation Heat		: 290.37  kJ/mol
+
+			Covalent Radius			: 141  (Picometers)
+
+			Ionic Radius			: 7100  (Picometers, +4e) , 9300 (Picometers, +2e)
+
+			Ionization Energy		: 7.344  kJ/mol
+
+			Oxidation States		: 4, 2
+
+			Crystal Structure		: Tetragonal (TET)
+
+			Crystal Constant		: 582  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2 5p2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the ancients
+
+			Appearance			: Silvery - white, soft, malleable and ductile metal
+
+			Name Origin			: Named after Etruscan god, Tinia: symbol form Latin: Stannum (tin).

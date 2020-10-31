@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Thallium
+
+			Atomic Number			: 81
+
+			Symbol				: Tl
+
+			Period				: 6
+
+			Group				: 13 [ III A ]
+
+			Classification			: Other Metal
+
+			State				: Solid
+
+			Atomic Weight			: 204.3833  (g/mol)
+
+			Atomic Volume			: 17.2  (cubic.cm/mol)
+
+			Atomic Radius			: 171  (Picometers)
+
+			Density				: 11.85
+
+			Electro Negativity		: 1.62
+
+			Electro Conductivity		: 5.6
+
+			Thermal Conductivity		: 46.1  W/m/K (at 300K)
+
+			Melting Point			: 576.6  K
+
+			Boiling Point			: 1730  K
+
+			Specific Heat			: 0.129  J/g/K    (at 300K)
+
+			Fusion Heat			: 4.27  kJ/mol
+
+			Evaporation Heat		: 162.09  kJ/mol
+
+			Covalent Radius			: 148  (Picometers)
+
+			Ionic Radius			: 9500 (Picometers, +3e) , 14700 (Picometers, +1e)
+
+			Ionization Energy		: 6.108  kJ/mol
+
+			Oxidation States		: 3, 1
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 346  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2 6p1
+
+			Discovered			: 1861
+
+			Discoverer			: Sir William Crookes
+
+			Appearance			: Soft, Gray Metal
+
+			Name Origin			: Greek: thallos (green twig), for a bright green line in its spectrum.

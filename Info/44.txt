@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Ruthenium
+
+			Atomic Number			: 44
+
+			Symbol				: Ru
+
+			Period				: 5
+
+			Group				: 8 [ VIII ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 101.07  (g/mol)
+
+			Atomic Volume			: 8.3  (cubic.cm/mol)
+
+			Atomic Radius			: 134  (Picometers)
+
+			Density				: 12.37
+
+			Electro Negativity		: 2.2
+
+			Electro Conductivity		: 14.9
+
+			Thermal Conductivity		: 117  W/m/K (at 300K)
+
+			Melting Point			: 2583  K
+
+			Boiling Point			: 4173  K
+
+			Specific Heat			: 0.238  J/g/K    (at 300K)
+
+			Fusion Heat			: 25.52  kJ/mol
+
+			Evaporation Heat		: 567.77  kJ/mol
+
+			Covalent Radius			: 125  (Picometers)
+
+			Ionic Radius			: 6700  (Picometers, +4e) 
+
+			Ionization Energy		: 7.37  kJ/mol
+
+			Oxidation States		: 8, 6, 4, 3
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 270  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d7 5s1
+
+			Discovered			: 1844
+
+			Discoverer			: Karl Klaus
+
+			Appearance			: Rare, Silver-Gray, Extremely Brittle Metal
+
+			Name Origin			: Latin: Ruthenia ( Russia).

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Phosphorus
+
+			Atomic Number			: 15
+
+			Symbol				: P
+
+			Period				: 3
+
+			Group				: 15 [ V A]
+
+			Classification			: Non Metal
+
+			State				: Solid
+
+			Atomic Weight			: 30.973762  (g/mol)
+
+			Atomic Volume			: 17  (cubic.cm/mol)
+
+			Atomic Radius			: 128  (Picometers)
+
+			Density				: 1.82
+
+			Electro Negativity		: 2.19
+
+			Electro Conductivity		: 10e - 16
+
+			Thermal Conductivity		: 0.235  W/m/K (at 300K)
+
+			Melting Point			: 317.3  K
+
+			Boiling Point			: 553  K
+
+			Specific Heat			: 0.769  J/g/K    (at 300K)
+
+			Fusion Heat			: 0.63  kJ/mol
+
+			Evaporation Heat		: 12.4  kJ/mol
+
+			Covalent Radius			: 106  (Picometers)
+
+			Ionic Radius			: 3500  (Picometers, +5e) , 21200 (Picometers, -3e)
+
+			Ionization Energy		: 10.486  kJ/mol
+
+			Oxidation States		: 5, 3 -3
+
+			Crystal Structure		: Cubic (CUB)
+
+			Crystal Constant		: 717  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s2 3p3
+
+			Discovered			: 1669
+
+			Discoverer			: Hennig Brand
+
+			Appearance			: The most common White form is a Waxy, Phosphorescent Solid
+
+			Name Origin			: Greel : Phosphorus ( Bringer of Light ).

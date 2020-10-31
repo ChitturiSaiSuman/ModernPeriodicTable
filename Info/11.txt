@@ -1,0 +1,62 @@
+
+
+			Name of the Element		: Sodium
+
+			Atomic Number			: 11
+
+			Symbol				: Na
+
+			Period				: 3
+
+			Group				: 1 [ I A]
+
+			Classification			: Alkali Metal
+
+			State				: Solid
+
+			Atomic Weight			: 22.989768  (g/mol)
+
+			Atomic Volume			: 23.7  (cubic.cm/mol)
+
+			Atomic Radius			: 190  (Picometers)
+
+			Density				: 0.97
+
+			Electro Negativity		: 0.93
+
+			Electro Conductivity		: 20.1
+
+			Thermal Conductivity		: 141  W/m/K (at 300K)
+
+			Melting Point			: 370.96  K
+
+			Boiling Point			: 1156.1  K
+
+			Specific Heat			: 1.23  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.601  kJ/mol
+
+			Evaporation Heat		: 98.01  kJ/mol
+
+			Covalent Radius			: 123  (Picometers)
+
+			Ionic Radius			: 9700  (Picometers, +1e)
+
+			Ionization Energy		: 5.139  kJ/mol
+
+			Oxidation States		: 1
+
+			Crystal Structure		: Body Centred Cubic (BCC)
+
+			Crystal Constant		: 423  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s1
+
+			Discovered			: 1807
+
+			Discoverer			: Sir Humphrey Davy
+
+			Appearance			: Soft, Silvery - White Metal
+
+			Name Origin			: Medieval Latin: sodanum (Headache remedy); 
+							  Symbol from Latin : Natrium ( Sodium Carbonate)

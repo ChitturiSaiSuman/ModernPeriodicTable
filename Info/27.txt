@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Cobalt
+
+			Atomic Number			: 27
+
+			Symbol				: Co
+
+			Period				: 4
+
+			Group				: 9 [ VIII ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 58.9332  (g/mol)
+
+			Atomic Volume			: 6.7  (cubic.cm/mol)
+
+			Atomic Radius			: 125  (Picometers)
+
+			Density				: 8.9
+
+			Electro Negativity		: 1.88
+
+			Electro Conductivity		: 17.9
+
+			Thermal Conductivity		: 100  W/m/K (at 300K)
+
+			Melting Point			: 1768  K
+
+			Boiling Point			: 3143  K
+
+			Specific Heat			: 0.421  J/g/K    (at 300K)
+
+			Fusion Heat			: 16.19  kJ/mol
+
+			Evaporation Heat		: 373.3  kJ/mol
+
+			Covalent Radius			: 116  (Picometers)
+
+			Ionic Radius			: 6300  (Picometers, +3e) , 7200 (Picometers, +2e)
+
+			Ionization Energy		: 7.86  kJ/mol
+
+			Oxidation States		: 3, 2, 0, -
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 251  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d7 4s2
+
+			Discovered			: 1739
+
+			Discoverer			: George Brandt
+
+			Appearance			: Hard, Ductile, Lustrous Bluish - Gray Metal
+
+			Name Origin			: German: Kobold ( Goblin ).

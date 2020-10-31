@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Silicon
+
+			Atomic Number			: 14
+
+			Symbol				: Si
+
+			Period				: 3
+
+			Group				: 14 [ IV A]
+
+			Classification			: Semi - Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 29.0855  (g/mol)
+
+			Atomic Volume			: 12.1  (cubic.cm/mol)
+
+			Atomic Radius			: 132  (Picometers)
+
+			Density				: 2.33
+
+			Electro Negativity		: 1.9
+
+			Electro Conductivity		: 4 x 10e - 4
+
+			Thermal Conductivity		: 148  W/m/K (at 300K)
+
+			Melting Point			: 1683  K
+
+			Boiling Point			: 2628  K
+
+			Specific Heat			: 0.7  J/g/K    (at 300K)
+
+			Fusion Heat			: 50.2  kJ/mol
+
+			Evaporation Heat		: 359  kJ/mol
+
+			Covalent Radius			: 111  (Picometers)
+
+			Ionic Radius			: 4200  (Picometers, +4e) , 27100 (Picometers, -4e)
+
+			Ionization Energy		: 8.151  kJ/mol
+
+			Oxidation States		: 4 , -4
+
+			Crystal Structure		: Diagonal ( DIA )
+
+			Crystal Constant		: 543  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s2 3p2
+
+			Discovered			: 1824
+
+			Discoverer			: Jons Jacob Berzelius
+
+			Appearance			: Amorphous form is Brown Powder, Crystalline form has a Gray
+
+			Name Origin			: Latin: Silex, Silicus, ( Flint )

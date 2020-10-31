@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Aluminium
+
+			Atomic Number			: 13
+
+			Symbol				: Al
+
+			Period				: 3
+
+			Group				: 13 [ III A]
+
+			Classification			: Other Metal
+
+			State				: Solid
+
+			Atomic Weight			: 26.981539  (g/mol)
+
+			Atomic Volume			: 10  (cubic.cm/mol)
+
+			Atomic Radius			: 143  (Picometers)
+
+			Density				: 2.7
+
+			Electro Negativity		: 1.61
+
+			Electro Conductivity		: 37.7
+
+			Thermal Conductivity		: 237  W/m/K (at 300K)
+
+			Melting Point			: 933.5  K
+
+			Boiling Point			: 2740  K
+
+			Specific Heat			: 0.9  J/g/K    (at 300K)
+
+			Fusion Heat			: 10.7  kJ/mol
+
+			Evaporation Heat		: 290.8  kJ/mol
+
+			Covalent Radius			: 118  (Picometers)
+
+			Ionic Radius			: 5100  (Picometers, +3e)
+
+			Ionization Energy		: 5.986  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Face Centred Cubic (FCC)
+
+			Crystal Constant		: 405  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s2 3p1
+
+			Discovered			: 1825
+
+			Discoverer			: Hans Christian Oersted
+
+			Appearance			: Soft, Light Weight, Silvery - White Metal
+
+			Name Origin			: Latin: Alumen, Aluminis ( Alum ).

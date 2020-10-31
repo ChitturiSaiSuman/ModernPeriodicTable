@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Praseodymium
+
+			Atomic Number			: 59
+
+			Symbol				: Pr
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare-Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 140.90765  (g/mol)
+
+			Atomic Volume			: 20.8  (cubic.cm/mol)
+
+			Atomic Radius			: 182  (Picometers)
+
+			Density				: 6.77
+
+			Electro Negativity		: 1.13
+
+			Electro Conductivity		: 1.5
+
+			Thermal Conductivity		: 12.5  W/m/K (at 300K)
+
+			Melting Point			: 1204  K
+
+			Boiling Point			: 3785  K
+
+			Specific Heat			: 0.193  J/g/K    (at 300K)
+
+			Fusion Heat			: 10.04  kJ/mol
+
+			Evaporation Heat		: 332.63  kJ/mol
+
+			Covalent Radius			: 165  (Picometers)
+
+			Ionic Radius			: 9000 (Picometers, +4e) , 10130 (Picometers, +3e)
+
+			Ionization Energy		: 5.42  kJ/mol
+
+			Oxidation States		: 4, 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 367  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f3 6s2
+
+			Discovered			: 1885
+
+			Discoverer			: C. F. Aver Von Welsbach
+
+			Appearance			: Silvery White, moderately soft, malleable and Ductile Metal
+
+			Name Origin			: Greek: Prasios and didymos (green twin); from its green salts.

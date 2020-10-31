@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Americium
+
+			Atomic Number			: 95
+
+			Symbol				: Am
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 243.0614  (g/mol)
+
+			Atomic Volume			: 20.8  (cubic.cm/mol)
+
+			Atomic Radius			: 184  (Picometers)
+
+			Density				: 13.7
+
+			Electro Negativity		: 1.3
+
+			Electro Conductivity		: 0.7
+
+			Thermal Conductivity		: 10  W/m/K (at 300K)
+
+			Melting Point			: 1267  K
+
+			Boiling Point			: 2880  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: 9200 (Picometers, +4e) , 10700 (Picometers, +3e)
+
+			Ionization Energy		: 6  kJ/mol
+
+			Oxidation States		: 6, 5, 4, 3
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f7 7s2
+
+			Discovered			: 1945
+
+			Discoverer			: G.T. Seaborg, R.A. James
+
+			Appearance			: Silvery - White, Radioactive metal
+
+			Name Origin			: Named for the American Continent by Analogy with Emporium.

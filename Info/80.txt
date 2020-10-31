@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Mercury
+
+			Atomic Number			: 80
+
+			Symbol				: Hg
+
+			Period				: 6
+
+			Group				: 12 [ II B ]
+
+			Classification			: Transition Metal
+
+			State				: Liquid
+
+			Atomic Weight			: 200.59  (g/mol)
+
+			Atomic Volume			: 14.8  (cubic.cm/mol)
+
+			Atomic Radius			: 160  (Picometers)
+
+			Density				: 13.55
+
+			Electro Negativity		: 2
+
+			Electro Conductivity		: 1.0
+
+			Thermal Conductivity		: 8.34  W/m/K (at 300K)
+
+			Melting Point			: 234.28  K
+
+			Boiling Point			: 629.73  K
+
+			Specific Heat			: 0.14  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.292  kJ/mol
+
+			Evaporation Heat		: 59.3  kJ/mol
+
+			Covalent Radius			: 149  (Picometers)
+
+			Ionic Radius			: 11000 (Picometers, +2e) , 12700 (Picometers, +1e)
+
+			Ionization Energy		: 10.437  kJ/mol
+
+			Oxidation States		: 2, 1
+
+			Crystal Structure		: Rhombohedral (RHL)
+
+			Crystal Constant		: 299  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Heavy, Silver-white metal that is in its liquid state at Room temp.
+
+			Name Origin			: The Roman god Mercury; Symbol from Latin: Hydragyrus (Liquid Silver).

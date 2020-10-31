@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Ytterbium
+
+			Atomic Number			: 70
+
+			Symbol				: Er
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Metal (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 173.04  (g/mol)
+
+			Atomic Volume			: 24.8  (cubic.cm/mol)
+
+			Atomic Radius			: 194  (Picometers)
+
+			Density				: 6.97
+
+			Electro Negativity		: 1.1
+
+			Electro Conductivity		: 3.7
+
+			Thermal Conductivity		: 34.9  W/m/K (at 300K)
+
+			Melting Point			: 1097  K
+
+			Boiling Point			: 1466  K
+
+			Specific Heat			: 0.155  J/g/K    (at 300K)
+
+			Fusion Heat			: 7.7  kJ/mol
+
+			Evaporation Heat		: 128  kJ/mol
+
+			Covalent Radius			: 170  (Picometers)
+
+			Ionic Radius			: 8580 (Picometers, +3e) , 9300 (Picometers, +2e)
+
+			Ionization Energy		: 6.254  kJ/mol
+
+			Oxidation States		: 3, 2
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 549  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 6s2
+
+			Discovered			: 1878
+
+			Discoverer			: Jean de Marignac
+
+			Appearance			: Silvery, Lustrous, Malleable, and ductile metal
+
+			Name Origin			: Named for the Swedish village of Ytterby.

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Gold
+
+			Atomic Number			: 79
+
+			Symbol				: Au
+
+			Period				: 6
+
+			Group				: 11 [ I B ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 196.96654  (g/mol)
+
+			Atomic Volume			: 10.2  (cubic.cm/mol)
+
+			Atomic Radius			: 146  (Picometers)
+
+			Density				: 19.3
+
+			Electro Negativity		: 2.54
+
+			Electro Conductivity		: 48.8
+
+			Thermal Conductivity		: 317  W/m/K (at 300K)
+
+			Melting Point			: 1337.58  K
+
+			Boiling Point			: 3080  K
+
+			Specific Heat			: 0.128  J/g/K    (at 300K)
+
+			Fusion Heat			: 12.36  kJ/mol
+
+			Evaporation Heat		: 324.43  kJ/mol
+
+			Covalent Radius			: 134  (Picometers)
+
+			Ionic Radius			: 8500 (Picometers, +3e) , 13700 (Picometers, +1e)
+
+			Ionization Energy		: 9.225  kJ/mol
+
+			Oxidation States		: 3, 1
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 408  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Soft, Malleable, Yellow Metal
+
+			Name Origin			: Anglo-Saxon: Geolo (Yellow); symbol from Latin: Aurum (shining dawn).

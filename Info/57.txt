@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Lanthanum
+
+			Atomic Number			: 57
+
+			Symbol				: La
+
+			Period				: 6
+
+			Group				: 3 [ III A ]
+
+			Classification			: Rare Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 138.9055  (g/mol)
+
+			Atomic Volume			: 22.5  (cubic.cm/mol)
+
+			Atomic Radius			: 138  (Picometers)
+
+			Density				: 6.15
+
+			Electro Negativity		: 1.1
+
+			Electro Conductivity		: 1.9
+
+			Thermal Conductivity		: 13.5  W/m/K (at 300K)
+
+			Melting Point			: 1194  K
+
+			Boiling Point			: 3730  K
+
+			Specific Heat			: 0.19  J/g/K    (at 300K)
+
+			Fusion Heat			: 11.3  kJ/mol
+
+			Evaporation Heat		: 399.57  kJ/mol
+
+			Covalent Radius			: 125  (Picometers)
+
+			Ionic Radius			: 10160 (Picometers, +3e) 
+
+			Ionization Energy		: 5.58  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 375  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 5d1 6s2
+
+			Discovered			: 1839
+
+			Discoverer			: Carl Mosander
+
+			Appearance			: Silvery - White, Soft, Malleable, and Ductile metal
+
+			Name Origin			: Greek: Lanthanein ( to be hidden ).

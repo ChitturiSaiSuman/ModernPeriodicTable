@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Promethium
+
+			Atomic Number			: 61
+
+			Symbol				: Pm
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare-Earth Element (Lanthanide Series)
+
+			State				: Artificial ( Man Made)
+
+			Atomic Weight			: 144.9127  (g/mol)
+
+			Atomic Volume			: 22.4  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: 7.22
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: 2
+
+			Thermal Conductivity		: 17.9  W/m/K (at 300K)
+
+			Melting Point			: 1441  K
+
+			Boiling Point			: 3000  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: 163  (Picometers)
+
+			Ionic Radius			: 9790 (Picometers, +3e) 
+
+			Ionization Energy		: 5.55  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f5 6s2
+
+			Discovered			: 1945
+
+			Discoverer			: J.A. Marinsky, L.E. Glendenin
+
+			Appearance			: --
+
+			Name Origin			: Named for the Greek god, Promethus.

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Niobium
+
+			Atomic Number			: 41
+
+			Symbol				: Nb
+
+			Period				: 5
+
+			Group				: 5 [ V B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 92.90638  (g/mol)
+
+			Atomic Volume			: 10.8  (cubic.cm/mol)
+
+			Atomic Radius			: 146  (Picometers)
+
+			Density				: 8.57
+
+			Electro Negativity		: 1.6
+
+			Electro Conductivity		: 6.6
+
+			Thermal Conductivity		: 53.7  W/m/K (at 300K)
+
+			Melting Point			: 2741  K
+
+			Boiling Point			: 5015  K
+
+			Specific Heat			: 0.265  J/g/K    (at 300K)
+
+			Fusion Heat			: 26.9  kJ/mol
+
+			Evaporation Heat		: 690.1  kJ/mol
+
+			Covalent Radius			: 134  (Picometers)
+
+			Ionic Radius			: 6900  (Picometers, +5e) 
+
+			Ionization Energy		: 6.88  kJ/mol
+
+			Oxidation States		: 5, 3
+
+			Crystal Structure		: Body-Centered Cubic
+
+			Crystal Constant		: 330  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d4 5s1
+
+			Discovered			: 1801
+
+			Discoverer			: Charles Hatchet
+
+			Appearance			: Shiny White, Soft, Ductile metal
+
+			Name Origin			: Niobe, Daughter of the Mythical Greek King Tantalus.

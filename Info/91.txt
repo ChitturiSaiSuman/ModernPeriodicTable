@@ -1,0 +1,62 @@
+
+
+			Name of the Element		: Protactinium
+
+			Atomic Number			: 91
+
+			Symbol				: Pa
+
+			Period				: 7
+
+			Group				: 3 [ III B ]
+
+			Classification			: Radio-Active Rare Earth Element ( Actinide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 231.03588  (g/mol)
+
+			Atomic Volume			: 15  (cubic.cm/mol)
+
+			Atomic Radius			: 161  (Picometers)
+
+			Density				: 15.4
+
+			Electro Negativity		: 1.5
+
+			Electro Conductivity		: 5.6
+
+			Thermal Conductivity		: 47  W/m/K (at 300K)
+
+			Melting Point			: 2113  K
+
+			Boiling Point			: 4300  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: 8900 (Picometers, +5e) , 11300 (Picometers, +3e)
+
+			Ionization Energy		: 5.88  kJ/mol
+
+			Oxidation States		: 5, 4
+
+			Crystal Structure		: Tetragonal (TET)
+
+			Crystal Constant		: 3.92  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f2 6d1 7s2
+
+			Discovered			: 1917
+
+			Discoverer			: Fredrich Soddy, John Cranston
+
+			Appearance			: Silvery - White, Radio Active element
+
+			Name Origin			: Greek: Proto and actinium ( Parent of Actinium);
+							  it forms actinium when it radioactively decays.

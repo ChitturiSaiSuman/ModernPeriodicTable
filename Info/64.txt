@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Gadolinium
+
+			Atomic Number			: 64
+
+			Symbol				: Gd
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Element (Lanthanide series)
+
+			State				: Solid
+
+			Atomic Weight			: 157.25  (g/mol)
+
+			Atomic Volume			: 19.9  (cubic.cm/mol)
+
+			Atomic Radius			: 180  (Picometers)
+
+			Density				: 7.9
+
+			Electro Negativity		: 1.2
+
+			Electro Conductivity		: 0.8
+
+			Thermal Conductivity		: 10.6  W/m/K (at 300K)
+
+			Melting Point			: 1586  K
+
+			Boiling Point			: 3539  K
+
+			Specific Heat			: 0.236  J/g/K    (at 300K)
+
+			Fusion Heat			: 15.48  kJ/mol
+
+			Evaporation Heat		: 311.71  kJ/mol
+
+			Covalent Radius			: 161  (Picometers)
+
+			Ionic Radius			: 9380 (Picometers, +3e) 
+
+			Ionization Energy		: 6.15  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 364  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f7 5d1 6s2
+
+			Discovered			: 1880
+
+			Discoverer			: Jean De Marignac
+
+			Appearance			: Soft, Ductile, Silvery White metal
+
+			Name Origin			: Named after the Mineral Gadolinite.

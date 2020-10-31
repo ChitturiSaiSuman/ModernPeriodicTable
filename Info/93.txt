@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Neptunium
+
+			Atomic Number			: 93
+
+			Symbol				: Np
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 237.048  (g/mol)
+
+			Atomic Volume			: 21.1  (cubic.cm/mol)
+
+			Atomic Radius			: 130  (Picometers)
+
+			Density				: 18.95
+
+			Electro Negativity		: 1.36
+
+			Electro Conductivity		: 0.8
+
+			Thermal Conductivity		: 6.3  W/m/K (at 300K)
+
+			Melting Point			: 913  K
+
+			Boiling Point			: 4175  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: 9500 (Picometers, +4e) , 11000 (Picometers, +3e)
+
+			Ionization Energy		: 6.19  kJ/mol
+
+			Oxidation States		: 6, 5, 4, 3
+
+			Crystal Structure		: Orthorhombic (ORC)
+
+			Crystal Constant		: 472  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f4 6d1 7s2
+
+			Discovered			: 1940
+
+			Discoverer			: E.M. McMillan, P.H. Abeison
+
+			Appearance			: Silvery Metal
+
+			Name Origin			: Named for the planet Neptune.

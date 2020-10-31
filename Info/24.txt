@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Chromium
+
+			Atomic Number			: 24
+
+			Symbol				: Cr
+
+			Period				: 4
+
+			Group				: 6 [ VI B]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 51.9961  (g/mol)
+
+			Atomic Volume			: 7.23  (cubic.cm/mol)
+
+			Atomic Radius			: 123  (Picometers)
+
+			Density				: 7.19
+
+			Electro Negativity		: 1.66
+
+			Electro Conductivity		: 7.9
+
+			Thermal Conductivity		: 93.7  W/m/K (at 300K)
+
+			Melting Point			: 2130  K
+
+			Boiling Point			: 2945  K
+
+			Specific Heat			: 0.449  J/g/K    (at 300K)
+
+			Fusion Heat			: 20  kJ/mol
+
+			Evaporation Heat		: 339.5  kJ/mol
+
+			Covalent Radius			: 118  (Picometers)
+
+			Ionic Radius			: 5200  (Picometers, +6e) , 6300 (Picometers, +3e)
+
+			Ionization Energy		: 6.766  kJ/mol
+
+			Oxidation States		: 6, 3, 2, 0
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 288  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d5 4s1
+
+			Discovered			: 1797
+
+			Discoverer			: Louis Vauquelin
+
+			Appearance			: Very Hard, Crystalline, Steel - Gray Metal
+
+			Name Origin			: Greek: Chroma ( Color )

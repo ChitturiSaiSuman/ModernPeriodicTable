@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Rubidium
+
+			Atomic Number			: 37
+
+			Symbol				: Rb
+
+			Period				: 5
+
+			Group				: 1 [ I A ]
+
+			Classification			: Alkali - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 85.4678  (g/mol)
+
+			Atomic Volume			: 55.9  (cubic.cm/mol)
+
+			Atomic Radius			: 248  (Picometers)
+
+			Density				: 1.532
+
+			Electro Negativity		: 0.82
+
+			Electro Conductivity		: 47.8
+
+			Thermal Conductivity		: 58.2  W/m/K (at 300K)
+
+			Melting Point			: 312.2  K
+
+			Boiling Point			: 961  K
+
+			Specific Heat			: 0.363  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.34  kJ/mol
+
+			Evaporation Heat		: 69.2  kJ/mol
+
+			Covalent Radius			: 2.16  (Picometers)
+
+			Ionic Radius			: 14700  (Picometers, +1e) 
+
+			Ionization Energy		: 4.177  kJ/mol
+
+			Oxidation States		: 1
+
+			Crystal Structure		: Body-Centered Cubic
+
+			Crystal Constant		: 559  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 5s1
+
+			Discovered			: 1861
+
+			Discoverer			: R. Bunsen, G. Kirchoff
+
+			Appearance			: Soft, Silvery - White, Highly Reactive Metal
+
+			Name Origin			: Latin: Rubidus ( Deep red ); the color its salts impart to flames.

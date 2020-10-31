@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Iodine
+
+			Atomic Number			: 53
+
+			Symbol				: I
+
+			Period				: 5
+
+			Group				: 17 [ VII A ]
+
+			Classification			: Halogen
+
+			State				: Solid
+
+			Atomic Weight			: 126.90447  (g/mol)
+
+			Atomic Volume			: 25.7  (cubic.cm/mol)
+
+			Atomic Radius			: 132  (Picometers)
+
+			Density				: 4.93
+
+			Electro Negativity		: 2.66
+
+			Electro Conductivity		: 10e- 11
+
+			Thermal Conductivity		: 0.449  W/m/K (at 300K)
+
+			Melting Point			: 386.7  K
+
+			Boiling Point			: 457.5  K
+
+			Specific Heat			: 0.145  J/g/K    (at 300K)
+
+			Fusion Heat			: 7.76  kJ/mol
+
+			Evaporation Heat		: 20.9  kJ/mol
+
+			Covalent Radius			: 133  (Picometers)
+
+			Ionic Radius			: 5000  (Picometers, +7e) , 22000 (Picometers, -1e) 
+
+			Ionization Energy		: 10.451  kJ/mol
+
+			Oxidation States		: 7, 5, 1, -
+
+			Crystal Structure		: Orthorhombic (ORC)
+
+			Crystal Constant		: 772  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2 5p5
+
+			Discovered			: 1811
+
+			Discoverer			: Bernard Courtois
+
+			Appearance			: Shiny, Black non metallic solid
+
+			Name Origin			: Greek: Iodes (Violet colored).

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Xenon
+
+			Atomic Number			: 54
+
+			Symbol				: Xe
+
+			Period				: 5
+
+			Group				: 18 [ VIII A ]
+
+			Classification			: Inert Gas
+
+			State				: Gas
+
+			Atomic Weight			: 131.29  (g/mol)
+
+			Atomic Volume			: 42.9  (cubic.cm/mol)
+
+			Atomic Radius			: 124  (Picometers)
+
+			Density				: 5.9
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.00569  W/m/K (at 300K)
+
+			Melting Point			: 161.3  K
+
+			Boiling Point			: 166.1  K
+
+			Specific Heat			: 0.158  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.3  kJ/mol
+
+			Evaporation Heat		: 12.64  kJ/mol
+
+			Covalent Radius			: 131  (Picometers)
+
+			Ionic Radius			: N/A 
+
+			Ionization Energy		: 12.13  kJ/mol
+
+			Oxidation States		: 7
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 620  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2 5p6
+
+			Discovered			: 1898
+
+			Discoverer			: Sir William Ramsey; M. W. Trav
+
+			Appearance			: Heavy, Colorless and Odorless Noble gas
+
+			Name Origin			: Greek: Xenos (Strange).

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Zirconium
+
+			Atomic Number			: 40
+
+			Symbol				: Zr
+
+			Period				: 5
+
+			Group				: 4 [ IV B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 91.224  (g/mol)
+
+			Atomic Volume			: 14.1  (cubic.cm/mol)
+
+			Atomic Radius			: 160  (Picometers)
+
+			Density				: 6.51
+
+			Electro Negativity		: 1.33
+
+			Electro Conductivity		: 2.3
+
+			Thermal Conductivity		: 22.7  W/m/K (at 300K)
+
+			Melting Point			: 2125  K
+
+			Boiling Point			: 4650  K
+
+			Specific Heat			: 0.278  J/g/K    (at 300K)
+
+			Fusion Heat			: 21  kJ/mol
+
+			Evaporation Heat		: 590.5  kJ/mol
+
+			Covalent Radius			: 145  (Picometers)
+
+			Ionic Radius			: 7900  (Picometers, +4e) 
+
+			Ionization Energy		: 6.84  kJ/mol
+
+			Oxidation States		: 4
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 323  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d2 5s2
+
+			Discovered			: 1789
+
+			Discoverer			: Martin Klaproth
+
+			Appearance			: Gray-White, Lustrous, Corrosion-Resistant metal
+
+			Name Origin			: The Mineral, Zircon.

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Platinum
+
+			Atomic Number			: 78
+
+			Symbol				: Pt
+
+			Period				: 6
+
+			Group				: 10 [ VIII ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 195.08  (g/mol)
+
+			Atomic Volume			: 9.1  (cubic.cm/mol)
+
+			Atomic Radius			: 139  (Picometers)
+
+			Density				: 21.45
+
+			Electro Negativity		: 2.28
+
+			Electro Conductivity		: 9.4
+
+			Thermal Conductivity		: 71.6  W/m/K (at 300K)
+
+			Melting Point			: 2045  K
+
+			Boiling Point			: 4100  K
+
+			Specific Heat			: 0.13  J/g/K    (at 300K)
+
+			Fusion Heat			: 19.66  kJ/mol
+
+			Evaporation Heat		: 510.45  kJ/mol
+
+			Covalent Radius			: 130  (Picometers)
+
+			Ionic Radius			: 6500 (Picometers, +4e) , 8000 (Picometers, +2e)
+
+			Ionization Energy		: 9  kJ/mol
+
+			Oxidation States		: 4, 2, 0
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 392  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d9 6s2
+
+			Discovered			: 1735
+
+			Discoverer			: Julius Scaliger
+
+			Appearance			: Very Heavy, soft, silvery - white metal
+
+			Name Origin			: Spanish: Platina (Little Silver).

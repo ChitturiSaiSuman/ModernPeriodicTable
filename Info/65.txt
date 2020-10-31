@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Terbium
+
+			Atomic Number			: 65
+
+			Symbol				: Tb
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare - Earth Element (Lanthanide Series )
+
+			State				: Solid
+
+			Atomic Weight			: 158.92534  (g/mol)
+
+			Atomic Volume			: 19.2  (cubic.cm/mol)
+
+			Atomic Radius			: 180  (Picometers)
+
+			Density				: 8.23
+
+			Electro Negativity		: 1.2
+
+			Electro Conductivity		: 0.9
+
+			Thermal Conductivity		: 11.1  W/m/K (at 300K)
+
+			Melting Point			: 1629  K
+
+			Boiling Point			: 3296  K
+
+			Specific Heat			: 0.18  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: 159  (Picometers)
+
+			Ionic Radius			: 8400 (Picometers, +4e) , 9230 (Picometers, +3e)
+
+			Ionization Energy		: 5.86  kJ/mol
+
+			Oxidation States		: 4, 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 360  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f9 6s2
+
+			Discovered			: 1843
+
+			Discoverer			: Carl Mosander
+
+			Appearance			: Soft, Ductile, Silvery gray, rare earth metal
+
+			Name Origin			: Named after Ytterby, A Village in Sweden.

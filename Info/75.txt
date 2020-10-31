@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Rhenium
+
+			Atomic Number			: 75
+
+			Symbol				: Re
+
+			Period				: 6
+
+			Group				: 7 [ VII B ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 186.207  (g/mol)
+
+			Atomic Volume			: 8.85  (cubic.cm/mol)
+
+			Atomic Radius			: 137  (Picometers)
+
+			Density				: 21
+
+			Electro Negativity		: 1.9
+
+			Electro Conductivity		: 5.8
+
+			Thermal Conductivity		: 47.9  W/m/K (at 300K)
+
+			Melting Point			: 3453  K
+
+			Boiling Point			: 5900  K
+
+			Specific Heat			: 0.137  J/g/K    (at 300K)
+
+			Fusion Heat			: 33.05  kJ/mol
+
+			Evaporation Heat		: 707.1  kJ/mol
+
+			Covalent Radius			: 128  (Picometers)
+
+			Ionic Radius			: 5300 (Picometers, +7e) , 7200 (Picometers, +4e)
+
+			Ionization Energy		: 7.88  kJ/mol
+
+			Oxidation States		: 5, 4, 3, 2
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 276  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d5 6s2
+
+			Discovered			: 1925
+
+			Discoverer			: Walter Noddack, Ida Tacke, Ott
+
+			Appearance			: Dense, Silvery-White Metal
+
+			Name Origin			: Latin: Rhenus, the Rhine River.

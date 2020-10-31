@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Lithium
+
+			Atomic Number			: 3
+
+			Symbol				: Li
+
+			Period				: 2
+
+			Group				: 1 [ IA ]
+
+			Classification			: Alkali Metal
+
+			State				: Solid
+
+			Atomic Weight			: 6.941 (g/mol)
+
+			Atomic Volume			: 13.1 (cubic.cm/mol)
+
+			Atomic Radius			: 152 (Picometers)
+
+			Density				: 0.53
+
+			Electro Negativity		: 0.98
+
+			Electro Conductivity		: 11.7
+
+			Thermal Conductivity		: 84.7  W/m/K (at 300K)
+
+			Melting Point			: 453.69  K
+
+			Boiling Point			: 1603  K
+
+			Specific Heat			: 3.582  J/g/K    (at 300K)
+
+			Fusion Heat			: 3.6  kJ/mol
+
+			Evaporation Heat		: 145.92  kJ/mol
+
+			Covalent Radius			: 128  (Picometers)
+
+			Ionic Radius			: 182  (Picometers, +1e)
+
+			Ionization Energy		: 520  kJ/mol
+
+			Oxidation States		: 1
+
+			Crystal Structure		: Body-Centered Cubic
+
+			Crystal Constant		: 403.51  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s1
+
+			Discovered			: 1817
+
+			Discoverer			: Johann August Arfwedson
+
+			Appearance			: Soft, Silvery-white Metal
+
+			Name Origin			: Greek-Lithos ( Stone )

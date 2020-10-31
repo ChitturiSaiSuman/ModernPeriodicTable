@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Barium
+
+			Atomic Number			: 56
+
+			Symbol				: Ba
+
+			Period				: 6
+
+			Group				: 2 [ II A ]
+
+			Classification			: Alkaline - Earth Metal
+
+			State				: Solid
+
+			Atomic Weight			: 137.327  (g/mol)
+
+			Atomic Volume			: 39  (cubic.cm/mol)
+
+			Atomic Radius			: 222  (Picometers)
+
+			Density				: 3.59
+
+			Electro Negativity		: 0.89
+
+			Electro Conductivity		: 2.8
+
+			Thermal Conductivity		: 18.4  W/m/K (at 300K)
+
+			Melting Point			: 1002  K
+
+			Boiling Point			: 1910  K
+
+			Specific Heat			: 0.204  J/g/K    (at 300K)
+
+			Fusion Heat			: 8.01  kJ/mol
+
+			Evaporation Heat		: 140.2  kJ/mol
+
+			Covalent Radius			: 198  (Picometers)
+
+			Ionic Radius			: 13400 (Picometers, +2e) 
+
+			Ionization Energy		: 5.212  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 502  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 6s2
+
+			Discovered			: 1808
+
+			Discoverer			: Sir Humphrey Davy
+
+			Appearance			: Soft, Slightly Malleable, Silvery White metal
+
+			Name Origin			: Greek: Barys (Heavy or Dense).

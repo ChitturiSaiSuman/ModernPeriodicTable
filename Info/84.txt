@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Polonium
+
+			Atomic Number			: 84
+
+			Symbol				: Po
+
+			Period				: 6
+
+			Group				: 16 [ VI A ]
+
+			Classification			: Semi Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 208.9824  (g/mol)
+
+			Atomic Volume			: 22.7 (cubic.cm/mol)
+
+			Atomic Radius			: 167 (Picometers)
+
+			Density				: 9.3
+
+			Electro Negativity		: 2
+
+			Electro Conductivity		: 0.7
+
+			Thermal Conductivity		: 20  W/m/K (at 300K)
+
+			Melting Point			: 527 K
+
+			Boiling Point			: 1235  K
+
+			Specific Heat			: --
+
+			Fusion Heat			: 13 kJ/mol
+
+			Evaporation Heat		: 120  kJ/mol
+
+			Covalent Radius			: 153  (Picometers)
+
+			Ionic Radius			: 6700 (Picometers, +6e) 
+
+			Ionization Energy		: 8.42  kJ/mol
+
+			Oxidation States		: 6, 4, 2
+
+			Crystal Structure		: Simple Cubic(SC)
+
+			Crystal Constant		: 335  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2 6p4
+
+			Discovered			: 1898
+
+			Discoverer			: Pierre and Marie curie-Sklodow
+
+			Appearance			: Silvery gray metal
+
+			Name Origin			: Named for Poland, native country of Marie curie

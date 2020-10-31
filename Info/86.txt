@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Radon
+
+			Atomic Number			: 86
+
+			Symbol				: Rn
+
+			Period				: 6
+
+			Group				: 18 [ VIII A ]
+
+			Classification			: Inert Gas
+
+			State				: Gas
+
+			Atomic Weight			: 222.0176  (g/mol)
+
+			Atomic Volume			: 50.5
+
+			Atomic Radius			: 134 (Picometers)
+
+			Density				: 9.73
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.00364 W/m/K (at 300K)
+
+			Melting Point			: 202 K
+
+			Boiling Point			: 211.4  K
+
+			Specific Heat			: 0.094  J/g/K  ( at 300 K )
+
+			Fusion Heat			: 2.9  kJ/mol
+
+			Evaporation Heat		: 16.4  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A 
+
+			Ionization Energy		: 10.748  kj/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: Face-Centered Cubic
+
+			Crystal Constant		: 0
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2 6p6
+
+			Discovered			: 1898
+
+			Discoverer			: Fredrich Ernst Dorn
+
+			Appearance			: Heavy Radioactive Gas
+
+			Name Origin			: Variation of the name of another element, Radium.

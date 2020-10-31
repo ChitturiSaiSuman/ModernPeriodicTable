@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Iron
+
+			Atomic Number			: 26
+
+			Symbol				: Fe
+
+			Period				: 4
+
+			Group				: 8 [ VIII B]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 55.847  (g/mol)
+
+			Atomic Volume			: 7.1  (cubic.cm/mol)
+
+			Atomic Radius			: 126  (Picometers)
+
+			Density				: 7.874
+
+			Electro Negativity		: 1.83
+
+			Electro Conductivity		: 11.2
+
+			Thermal Conductivity		: 80.2  W/m/K (at 300K)
+
+			Melting Point			: 1808  K
+
+			Boiling Point			: 3023  K
+
+			Specific Heat			: 0.449  J/g/K    (at 300K)
+
+			Fusion Heat			: 13.8  kJ/mol
+
+			Evaporation Heat		: 349.5  kJ/mol
+
+			Covalent Radius			: 116  (Picometers)
+
+			Ionic Radius			: 6400  (Picometers, +3e) , 7400 (Picometers, +2e)
+
+			Ionization Energy		: 7.87  kJ/mol
+
+			Oxidation States		: 6, 3, 2, 0
+
+			Crystal Structure		: Body - Centered Cubic ( BCC )
+
+			Crystal Constant		: 287  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d6 4s2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: malleable, Ductile, Silvery - White Metal
+
+			Name Origin			: Anglo-Saxon: Iron; Symbol from Latin: Ferrum ( Iron ).

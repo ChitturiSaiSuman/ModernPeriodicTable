@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Lead
+
+			Atomic Number			: 82
+
+			Symbol				: Pb
+
+			Period				: 6
+
+			Group				: 14 [ IV A ]
+
+			Classification			: Other Metal
+
+			State				: Solid
+
+			Atomic Weight			: 207.2  (g/mol)
+
+			Atomic Volume			: 18.3  (cubic.cm/mol)
+
+			Atomic Radius			: 175  (Picometers)
+
+			Density				: 11.35
+
+			Electro Negativity		: 1.8
+
+			Electro Conductivity		: 4.8
+
+			Thermal Conductivity		: 35.3  W/m/K (at 300K)
+
+			Melting Point			: 600.65  K
+
+			Boiling Point			: 2013  K
+
+			Specific Heat			: 0.129  J/g/K    (at 300K)
+
+			Fusion Heat			: 4.77  kJ/mol
+
+			Evaporation Heat		: 177.9  kJ/mol
+
+			Covalent Radius			: 147  (Picometers)
+
+			Ionic Radius			: 8400 (Picometers, +4e) , 12000 (Picometers, +2e)
+
+			Ionization Energy		: 7.416  kJ/mol
+
+			Oxidation States		: 4, 2
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 495  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2 6p2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients.
+
+			Appearance			: Very soft, highly malleable & ductile, Blue-White Shiny Metal
+
+			Name Origin			: Anglo-Saxon: Lead; Symbol from Latin: Plumbum.

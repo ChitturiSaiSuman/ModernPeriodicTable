@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Cesium
+
+			Atomic Number			: 55
+
+			Symbol				: Cs
+
+			Period				: 6
+
+			Group				: 1 [ I A ]
+
+			Classification			: Alkali Metal
+
+			State				: Solid
+
+			Atomic Weight			: 132.90543  (g/mol)
+
+			Atomic Volume			: 70  (cubic.cm/mol)
+
+			Atomic Radius			: 267  (Picometers)
+
+			Density				: 1.87
+
+			Electro Negativity		: 0.79
+
+			Electro Conductivity		: 5.3
+
+			Thermal Conductivity		: 35.9  W/m/K (at 300K)
+
+			Melting Point			: 301.6  K
+
+			Boiling Point			: 951.6  K
+
+			Specific Heat			: 0.24  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.092  kJ/mol
+
+			Evaporation Heat		: 67.74  kJ/mol
+
+			Covalent Radius			: 235  (Picometers)
+
+			Ionic Radius			: 16700 (Picometers, +1e) 
+
+			Ionization Energy		: 3.894  kJ/mol
+
+			Oxidation States		: 1
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 605  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 6s1
+
+			Discovered			: 1860
+
+			Discoverer			: Gustov Kirchoff, Robert Bunsen
+
+			Appearance			: Very Soft, Ductile, light gray metal
+
+			Name Origin			: Latin: Coesius (sky blue), for the blue lines of its spectrum.

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Boron
+
+			Atomic Number			: 5
+
+			Symbol				: B
+
+			Period				: 2
+
+			Group				: 13 [ III A]
+
+			Classification			: Semi - Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 10.811  (g/mol)
+
+			Atomic Volume			: 4.6  (cubic.cm/mol)
+
+			Atomic Radius			: 0.0098  (Picometers)
+
+			Density				: 2.34  (Gas, 273K, g/l)
+
+			Electro Negativity		: 2.04
+
+			Electro Conductivity		: 0.000001 /Ohm/m
+
+			Thermal Conductivity		: 27  W/m/K (at 300K)
+
+			Melting Point			: 2573  K
+
+			Boiling Point			: 3931  K
+
+			Specific Heat			: 1.026  J/g/K    (at 300K)
+
+			Fusion Heat			: 22.6  kJ/mol
+
+			Evaporation Heat		: 507.8  kJ/mol
+
+			Covalent Radius			: 0.0082  (Picometers)
+
+			Ionic Radius			: 0.23  (Picometers, +3e)
+
+			Ionization Energy		: 8.298  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Tetragonal ( TET )
+
+			Crystal Constant		: 0.0873  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s2 2p1
+
+			Discovered			: 1808
+
+			Discoverer			: Sir H. Davy, J.L. Gay - Lussac.
+
+			Appearance			: Hard, Brittle, Lustrous black Semi-Metal
+
+			Name Origin			: The Arabic and Persian words for Borax

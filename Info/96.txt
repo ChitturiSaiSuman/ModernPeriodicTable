@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Curium
+
+			Atomic Number			: 96
+
+			Symbol				: Cm
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 247.0703  (g/mol)
+
+			Atomic Volume			: 18.3  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: 13.7
+
+			Electro Negativity		: 1.3
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 10  W/m/K (at 300K)
+
+			Melting Point			: 1340  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: 6.02  kJ/mol
+
+			Oxidation States		: 4, 3
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0
+
+			Electronic Configuration	: [ Rn ] 5f7 6d1 7s2
+
+			Discovered			: 1944
+
+			Discoverer			: G.T. Seaborg, R.A. James, A. Ghio
+
+			Appearance			: Silvery, Malleable, Synthetic Radioactive Metal
+
+			Name Origin			: Named in honour of Pierre and Marie Curie.

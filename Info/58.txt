@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Cerium
+
+			Atomic Number			: 58
+
+			Symbol				: Ce
+
+			Period				: 6
+
+			Group				: 3 [ III A ]
+
+			Classification			: Rare-Earth Element ( Lanthanide Series )
+
+			State				: Solid
+
+			Atomic Weight			: 140.115  (g/mol)
+
+			Atomic Volume			: 21  (cubic.cm/mol)
+
+			Atomic Radius			: 181  (Picometers)
+
+			Density				: 6.77
+
+			Electro Negativity		: 1.12
+
+			Electro Conductivity		: 1.4
+
+			Thermal Conductivity		: 11.4  W/m/K (at 300K)
+
+			Melting Point			: 1072  K
+
+			Boiling Point			: 3699  K
+
+			Specific Heat			: 0.19  J/g/K    (at 300K)
+
+			Fusion Heat			: 9.2  kJ/mol
+
+			Evaporation Heat		: 313.8  kJ/mol
+
+			Covalent Radius			: 165  (Picometers)
+
+			Ionic Radius			: 9200 (Picometers, +4e) , 10340 (Picometers, +3e)
+
+			Ionization Energy		: 5.47  kJ/mol
+
+			Oxidation States		: 4, 3
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 516  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f1 5d1 6s2
+
+			Discovered			: 1803
+
+			Discoverer			: W. Von hisinger, J. Berzelius
+
+			Appearance			: Malleable, Ductile, Iron-Gray Metal
+
+			Name Origin			: Named after the Asteriod, Ceres, Discovered two years before the element.

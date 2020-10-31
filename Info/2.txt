@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Helium
+
+			Atomic Number			: 2
+
+			Symbol				: He
+
+			Period				: 1
+
+			Group				: 18 [ VIII A]
+
+			Classification			: Inert Gas
+
+			State				: Gas
+
+			Atomic Weight			: 4.002602 (g/mol)
+
+			Atomic Volume			: 31.8 (cubic.cm/mol)
+
+			Atomic Radius			: 31 (Picometers)
+
+			Density				: 0.1785 (Gas, 273K, g/l)
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.152  W/m/K (at 300K)
+
+			Melting Point			: 0.95  K
+
+			Boiling Point			: 4.222  K
+
+			Specific Heat			: 5.193  J/g/K    (at 300K)
+
+			Fusion Heat			: 0.021  kJ/mol
+
+			Evaporation Heat		: 0.084  kJ/mol
+
+			Covalent Radius			: 28  (Picometers)
+
+			Ionic Radius			: 140  (Picometers, -1e)
+
+			Ionization Energy		: 24.587  kJ/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: Hexagonal Close Packed (HCP)
+
+			Crystal Constant		: 0.0357  (Picometers)
+
+			Electronic Configuration	: 1s2
+
+			Discovered			: 1868
+
+			Discoverer			: Pierre Janssen, Norman Lockyer
+
+			Appearance			: Inert, Colorless, Odorless, Tasteless gas
+
+			Name Origin			: Greek - Helios (Titan of the Sun)

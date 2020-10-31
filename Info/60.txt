@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Neodymium
+
+			Atomic Number			: 60
+
+			Symbol				: Nd
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare - Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 144.24  (g/mol)
+
+			Atomic Volume			: 20.6  (cubic.cm/mol)
+
+			Atomic Radius			: 182  (Picometers)
+
+			Density				: 6.77
+
+			Electro Negativity		: 1.14
+
+			Electro Conductivity		: 1.6
+
+			Thermal Conductivity		: 16.5  W/m/K (at 300K)
+
+			Melting Point			: 1294  K
+
+			Boiling Point			: 3341  K
+
+			Specific Heat			: 0.19  J/g/K    (at 300K)
+
+			Fusion Heat			: 10.88  kJ/mol
+
+			Evaporation Heat		: 283.68  kJ/mol
+
+			Covalent Radius			: 164  (Picometers)
+
+			Ionic Radius			: 9950 (Picometers, +3e) 
+
+			Ionization Energy		: 5.49  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 366  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f4 6s2
+
+			Discovered			: 1925
+
+			Discoverer			: C.F. Aver Von Welsbach
+
+			Appearance			: Silvery-White, rare-earth metal that oxidizes easily in air
+
+			Name Origin			: Greek: neos and didymos ( new twin).

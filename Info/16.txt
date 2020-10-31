@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Sulphur
+
+			Atomic Number			: 16
+
+			Symbol				: S
+
+			Period				: 3
+
+			Group				: 16 [ VI A]
+
+			Classification			: Non - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 32.066  (g/mol)
+
+			Atomic Volume			: 15.5  (cubic.cm/mol)
+
+			Atomic Radius			: 127  (Picometers)
+
+			Density				: 2.07
+
+			Electro Negativity		: 2.58
+
+			Electro Conductivity		: 5 x 10e - 16
+
+			Thermal Conductivity		: 0.269  W/m/K (at 300K)
+
+			Melting Point			: 386  K
+
+			Boiling Point			: 717.824  K
+
+			Specific Heat			: 0.71  J/g/K    (at 300K)
+
+			Fusion Heat			: 1.73  kJ/mol
+
+			Evaporation Heat		: 10  kJ/mol
+
+			Covalent Radius			: 102  (Picometers)
+
+			Ionic Radius			: 3000  (Picometers, +6e) , 18400 (Picometers, -2e)
+
+			Ionization Energy		: 10.36  kJ/mol
+
+			Oxidation States		: 6, 4, 2
+
+			Crystal Structure		: Ortho Rhombic
+
+			Crystal Constant		: 1047  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s2 3p4
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Tasteless, Odorless, Light - Yellow Brittle Solid
+
+			Name Origin			: Latin: Sulphur ( Brin Stone )

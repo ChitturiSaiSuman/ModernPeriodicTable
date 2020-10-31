@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Cadmium
+
+			Atomic Number			: 48
+
+			Symbol				: Cd
+
+			Period				: 5
+
+			Group				: 12 [ II B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 112.411  (g/mol)
+
+			Atomic Volume			: 13.1  (cubic.cm/mol)
+
+			Atomic Radius			: 171  (Picometers)
+
+			Density				: 8.65
+
+			Electro Negativity		: 1.69
+
+			Electro Conductivity		: 14.7
+
+			Thermal Conductivity		: 96.8  W/m/K (at 300K)
+
+			Melting Point			: 594.1  K
+
+			Boiling Point			: 1038  K
+
+			Specific Heat			: 0.232  J/g/K    (at 300K)
+
+			Fusion Heat			: 6.07  kJ/mol
+
+			Evaporation Heat		: 99.87  kJ/mol
+
+			Covalent Radius			: 141  (Picometers)
+
+			Ionic Radius			: 9700  (Picometers, +2e) 
+
+			Ionization Energy		: 8.993  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 298  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2
+
+			Discovered			: 1817
+
+			Discoverer			: Fredrich Stromeyer
+
+			Appearance			: Soft, Malleable, Blue-White metal
+
+			Name Origin			: Greek: kadmeia (ancient name for calamine (Zinc Oxide)).

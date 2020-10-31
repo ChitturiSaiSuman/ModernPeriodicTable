@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Selenium
+
+			Atomic Number			: 34
+
+			Symbol				: Se
+
+			Period				: 4
+
+			Group				: 16 [ VI A ]
+
+			Classification			: Non - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 78.96  (g/mol)
+
+			Atomic Volume			: 16.5  (cubic.cm/mol)
+
+			Atomic Radius			: 140  (Picometers)
+
+			Density				: 4.79
+
+			Electro Negativity		: 2.55
+
+			Electro Conductivity		: 8
+
+			Thermal Conductivity		: 2.04  W/m/K (at 300K)
+
+			Melting Point			: 490  K
+
+			Boiling Point			: 958.1  K
+
+			Specific Heat			: 0.32  J/g/K    (at 300K)
+
+			Fusion Heat			: 5.54  kJ/mol
+
+			Evaporation Heat		: 26.32  kJ/mol
+
+			Covalent Radius			: 116  (Picometers)
+
+			Ionic Radius			: 4200  (Picometers, +6e) , 19100 (Picometers, -2e)
+
+			Ionization Energy		: 9.752  kJ/mol
+
+			Oxidation States		: 6, 4, -2
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 436  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s2 4p4
+
+			Discovered			: 1818
+
+			Discoverer			: Jons Jacob Berzelius
+
+			Appearance			: A Soft metalloid similar to Sulphur
+
+			Name Origin			: Greek: Selene ( moon ).

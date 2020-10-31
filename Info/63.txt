@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Europium
+
+			Atomic Number			: 63
+
+			Symbol				: Eu
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 151.965  (g/mol)
+
+			Atomic Volume			: 28.9  (cubic.cm/mol)
+
+			Atomic Radius			: 199  (Picometers)
+
+			Density				: 5.24
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: 1.1
+
+			Thermal Conductivity		: 13.9  W/m/K (at 300K)
+
+			Melting Point			: 1095  K
+
+			Boiling Point			: 1870  K
+
+			Specific Heat			: 0.182  J/g/K    (at 300K)
+
+			Fusion Heat			: 10.46  kJ/mol
+
+			Evaporation Heat		: 175.73  kJ/mol
+
+			Covalent Radius			: 185  (Picometers)
+
+			Ionic Radius			: 9500 (Picometers, +3e) , 10900 (Picometers, +2e)
+
+			Ionization Energy		: 5.67  kJ/mol
+
+			Oxidation States		: 3, 2
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 461  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f7 6s1
+
+			Discovered			: 1901
+
+			Discoverer			: Eugene - Antole Demarcay
+
+			Appearance			: Soft, Silvery White Metal
+
+			Name Origin			: Name for the continent of Europe.

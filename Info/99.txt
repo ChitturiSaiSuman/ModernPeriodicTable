@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Einsteinium
+
+			Atomic Number			: 99
+
+			Symbol				: Es
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 252.083  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 1.3
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 10  W/m/K (at 300K)
+
+			Melting Point			: --  K
+
+			Boiling Point			: 1130  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: 6.42  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f11 7s2
+
+			Discovered			: 1952
+
+			Discoverer			: Argonne, Los Alamos, U of Cali
+
+			Appearance			: Radio active, synthetic metal
+
+			Name Origin			: Named in Honour of the Scientist Albert Einstein.

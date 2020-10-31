@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Germanium
+
+			Atomic Number			: 32
+
+			Symbol				: Ge
+
+			Period				: 4
+
+			Group				: 14 [ IV A ]
+
+			Classification			: Semi Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 72.61  (g/mol)
+
+			Atomic Volume			: 13.6  (cubic.cm/mol)
+
+			Atomic Radius			: 137  (Picometers)
+
+			Density				: 5.32
+
+			Electro Negativity		: 2.01
+
+			Electro Conductivity		: 4 x 10e - 4
+
+			Thermal Conductivity		: 59.9  W/m/K (at 300K)
+
+			Melting Point			: 1210.6  K
+
+			Boiling Point			: 3103  K
+
+			Specific Heat			: 0.32  J/g/K    (at 300K)
+
+			Fusion Heat			: 31.8  kJ/mol
+
+			Evaporation Heat		: 334.3  kJ/mol
+
+			Covalent Radius			: 122  (Picometers)
+
+			Ionic Radius			: 5300  (Picometers, +4e) , 7300 (Picometers, +2e)
+
+			Ionization Energy		: 7.899  kJ/mol
+
+			Oxidation States		: 4
+
+			Crystal Structure		: Diagonal (DIA)
+
+			Crystal Constant		: 566  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s2 4p2
+
+			Discovered			: 1886
+
+			Discoverer			: Clemens Winkler
+
+			Appearance			: Grayish - White Metal
+
+			Name Origin			: Laitn: Germania ( Germany ).

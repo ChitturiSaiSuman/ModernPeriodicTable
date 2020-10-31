@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Californium
+
+			Atomic Number			: 98
+
+			Symbol				: Cf
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 251.0796  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: 15.1
+
+			Electro Negativity		: 1.3
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 10  W/m/K (at 300K)
+
+			Melting Point			: 900  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: 6.3  kJ/mol
+
+			Oxidation States		: 4, 3
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0
+
+			Electronic Configuration	: [ Rn ] 5f9 7s2
+
+			Discovered			: 1949
+
+			Discoverer			: G.T. Seaborg, S.G. Tompson
+
+			Appearance			: Radio Active, Synthetic metal
+
+			Name Origin			: Named after Berkeley, California its city of its Discovery.

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Hydrogen
+
+			Atomic Number			: 1
+
+			Symbol				: H
+
+			Period				: 1
+
+			Group				: 1 [ IA]
+
+			Classification			: Non-Metal
+
+			State				: Gas
+
+			Atomic Weight			: 1.00794 (g/mol)
+
+			Atomic Volume			: 14.1 (cubic.cm/mol)
+
+			Atomic Radius			: 53 (Picometers)
+
+			Density				: 0.0899 (Gas, 273K, g/l)
+
+			Electro Negativity		: 2.2
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.1815  W/m/K (at 300K)
+
+			Melting Point			: 14.01  K
+
+			Boiling Point			: 20.28  K
+
+			Specific Heat			: 14.304  J/g/K  (at 300K)
+
+			Fusion Heat			: 0.0585  kJ/mol
+
+			Evaporation Heat		: 0.4581  kJ/mol
+
+			Covalent Radius			: 32  (Picometers)
+
+			Ionic Radius			: 15400  (Picometers, -1e)
+
+			Ionization Energy		: 13.598  kJ/mol
+
+			Oxidation States		: 1, -1
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 0.0375  (Picometers)
+
+			Electronic Configuration	: 1s1
+
+			Discovered			: 1766
+
+			Discoverer			: Henry Cavendish
+
+			Appearance			: Colorless, Odorless, Tasteless gas
+
+			Name Origin			: Greek - Hydro (water) and genes (generate)

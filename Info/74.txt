@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Tungsten
+
+			Atomic Number			: 74
+
+			Symbol				: W
+
+			Period				: 6
+
+			Group				: 6 [ VI B ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 183.84  (g/mol)
+
+			Atomic Volume			: 9.53  (cubic.cm/mol)
+
+			Atomic Radius			: 141  (Picometers)
+
+			Density				: 19.3
+
+			Electro Negativity		: 1.7
+
+			Electro Conductivity		: 18.2
+
+			Thermal Conductivity		: 174  W/m/K (at 300K)
+
+			Melting Point			: 3680  K
+
+			Boiling Point			: 5930  K
+
+			Specific Heat			: 0.13  J/g/K    (at 300K)
+
+			Fusion Heat			: 35.4  kJ/mol
+
+			Evaporation Heat		: 422.58  kJ/mol
+
+			Covalent Radius			: 130  (Picometers)
+
+			Ionic Radius			: 6200 (Picometers, +6e) , 7000 (Picometers, +4e)
+
+			Ionization Energy		: 7.89  kJ/mol
+
+			Oxidation States		: 6, 5, 4, 3
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 316  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d4 6s2
+
+			Discovered			: 1783
+
+			Discoverer			: Juan Jose, Fausto Ethuyar
+
+			Appearance			: Tough, Steel-Gray to White metal
+
+			Name Origin			: Swedish: Tungsten(Heavy sotne);symbol from its German name Wolfram.

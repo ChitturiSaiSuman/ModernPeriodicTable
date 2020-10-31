@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Scandium
+
+			Atomic Number			: 21
+
+			Symbol				: Sc
+
+			Period				: 4
+
+			Group				: 3 [ III B]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 44.95591  (g/mol)
+
+			Atomic Volume			: 15  (cubic.cm/mol)
+
+			Atomic Radius			: 162  (Picometers)
+
+			Density				: 2.99
+
+			Electro Negativity		: 1.36
+
+			Electro Conductivity		: 1.5
+
+			Thermal Conductivity		: 15.8  W/m/K (at 300K)
+
+			Melting Point			: 1814  K
+
+			Boiling Point			: 3104  K
+
+			Specific Heat			: 0.568  J/g/K    (at 300K)
+
+			Fusion Heat			: 16.11  kJ/mol
+
+			Evaporation Heat		: 304.8  kJ/mol
+
+			Covalent Radius			: 144  (Picometers)
+
+			Ionic Radius			: 7230  (Picometers, +3e)
+
+			Ionization Energy		: 6.54  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 331  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d1 4s2
+
+			Discovered			: 1879
+
+			Discoverer			: Lars Nilson
+
+			Appearance			: Fairly Soft, Silvery - White metal
+
+			Name Origin			: Latin: Scandia , Scandinavia

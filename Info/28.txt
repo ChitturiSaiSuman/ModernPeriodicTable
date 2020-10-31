@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Nickel
+
+			Atomic Number			: 28
+
+			Symbol				: Ni
+
+			Period				: 4
+
+			Group				: 10 [ VIII ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 58.6934  (g/mol)
+
+			Atomic Volume			: 6.6  (cubic.cm/mol)
+
+			Atomic Radius			: 124  (Picometers)
+
+			Density				: 8.9
+
+			Electro Negativity		: 1.91
+
+			Electro Conductivity		: 14.6
+
+			Thermal Conductivity		: 90.7  W/m/K (at 300K)
+
+			Melting Point			: 1726  K
+
+			Boiling Point			: 3005  K
+
+			Specific Heat			: 0.444  J/g/K    (at 300K)
+
+			Fusion Heat			: 17.2  kJ/mol
+
+			Evaporation Heat		: 377.5  kJ/mol
+
+			Covalent Radius			: 1.15  (Picometers)
+
+			Ionic Radius			: 6900  (Picometers, +2e)
+
+			Ionization Energy		: 7.635  kJ/mol
+
+			Oxidation States		: 3, 2, 0
+
+			Crystal Structure		: Face Centered Cubic ( FCC )
+
+			Crystal Constant		: 352  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d8 4s2
+
+			Discovered			: 17514
+
+			Discoverer			: Axel Cronstedt
+
+			Appearance			: Hard, Malleable, Silvery - White Metal
+
+			Name Origin			: German: Kupfernickel ( Devil's Copper )

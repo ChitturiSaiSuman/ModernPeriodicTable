@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Argon
+
+			Atomic Number			: 18
+
+			Symbol				: Ar
+
+			Period				: 3
+
+			Group				: 18 [ VIII A]
+
+			Classification			: Inert Gas
+
+			State				: Gas
+
+			Atomic Weight			: 39.948  (g/mol)
+
+			Atomic Volume			: 24.2  (cubic.cm/mol)
+
+			Atomic Radius			: 88  (Picometers)
+
+			Density				: 1.784
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.0177  W/m/K (at 300K)
+
+			Melting Point			: 83.8  K
+
+			Boiling Point			: 87.3  K
+
+			Specific Heat			: 0.52  J/g/K    (at 300K)
+
+			Fusion Heat			: 1.188  kJ/mol
+
+			Evaporation Heat		: 6.506  kJ/mol
+
+			Covalent Radius			: 98  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: 15.759  kJ/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: Face Centred Cubic (FCC)
+
+			Crystal Constant		: 526  (Picometers)
+
+			Electronic Configuration	: [ Ne ] 3s2 3p6
+
+			Discovered			: 1894
+
+			Discoverer			: Sir William Ramsey, Baron Rayi
+
+			Appearance			: Colorless, Tasteless, Odorless Noble Gas
+
+			Name Origin			: Greek: Argos ( Inactive )

@@ -1,0 +1,62 @@
+
+
+			Name of the Element		: Nobelium
+
+			Atomic Number			: 102
+
+			Symbol				: No
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 259.1009  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 1.3
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 10   W/m/K (at 300K)
+
+			Melting Point			: 1100  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: 6.65  kJ/mol
+
+			Oxidation States		: 3, 2
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f14 7s2
+
+			Discovered			: 1957
+
+			Discoverer			: Nobel Institute for Physics
+
+			Appearance			: Radioactive Synthetic Metal
+
+			Name Origin			: Named in Honour of the Scientist Alfred Nobel, 
+							  who invented Dynamite and founded Nobel Prize

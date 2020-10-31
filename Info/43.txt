@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Technitium
+
+			Atomic Number			: 43
+
+			Symbol				: Tc
+
+			Period				: 5
+
+			Group				: 7 [ VII B ]
+
+			Classification			: Transition - Metal
+
+			State				: Artificial ( Man - Made )
+
+			Atomic Weight			: 97.9072  (g/mol)
+
+			Atomic Volume			: 8.5  (cubic.cm/mol)
+
+			Atomic Radius			: 136  (Picometers)
+
+			Density				: 11.5
+
+			Electro Negativity		: 1.9
+
+			Electro Conductivity		: 0.001
+
+			Thermal Conductivity		: 50.6  W/m/K (at 300K)
+
+			Melting Point			: 2445  K
+
+			Boiling Point			: 5150  K
+
+			Specific Heat			: 0.24  J/g/K    (at 300K)
+
+			Fusion Heat			: 23  kJ/mol
+
+			Evaporation Heat		: 502  kJ/mol
+
+			Covalent Radius			: 127  (Picometers)
+
+			Ionic Radius			: 5600  (Picometers, +7e) 
+
+			Ionization Energy		: 7.28  kJ/mol
+
+			Oxidation States		: 7
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 274  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d6 5s1
+
+			Discovered			: 1937
+
+			Discoverer			: Carlo Perrier, Emilio Segre
+
+			Appearance			: Silvery - Gray Metal
+
+			Name Origin			: Greek: Technetos (Artificial).

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Calcium
+
+			Atomic Number			: 20
+
+			Symbol				: Ca
+
+			Period				: 4
+
+			Group				: 2 [ II A]
+
+			Classification			: Alkaline Earth - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 40.078  (g/mol)
+
+			Atomic Volume			: 29.9  (cubic.cm/mol)
+
+			Atomic Radius			: 197  (Picometers)
+
+			Density				: 1.55
+
+			Electro Negativity		: 1
+
+			Electro Conductivity		: 31.3
+
+			Thermal Conductivity		: 200  W/m/K (at 300K)
+
+			Melting Point			: 1112  K
+
+			Boiling Point			: 1757  K
+
+			Specific Heat			: 0.647  J/g/K    (at 300K)
+
+			Fusion Heat			: 8.53  kJ/mol
+
+			Evaporation Heat		: 154.67  kJ/mol
+
+			Covalent Radius			: 174  (Picometers)
+
+			Ionic Radius			: 9900  (Picometers, +2e)
+
+			Ionization Energy		: 6.113  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: Face Centred Cubic (FCC)
+
+			Crystal Constant		: 558  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 4s2
+
+			Discovered			: 1808
+
+			Discoverer			: Sir Humphrey Davy
+
+			Appearance			: Fairy Hard , Silvery White metal
+
+			Name Origin			: Latin : Calx , Calcis ( Lime )

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Thulium
+
+			Atomic Number			: 69
+
+			Symbol				: Tm
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Metal (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 168.93421  (g/mol)
+
+			Atomic Volume			: 18.1  (cubic.cm/mol)
+
+			Atomic Radius			: 177  (Picometers)
+
+			Density				: 9.32
+
+			Electro Negativity		: 1.25
+
+			Electro Conductivity		: 1.3
+
+			Thermal Conductivity		: 16.8  W/m/K (at 300K)
+
+			Melting Point			: 1818  K
+
+			Boiling Point			: 2220  K
+
+			Specific Heat			: 0.16  J/g/K    (at 300K)
+
+			Fusion Heat			: 16.8  kJ/mol
+
+			Evaporation Heat		: 191  kJ/mol
+
+			Covalent Radius			: 156  (Picometers)
+
+			Ionic Radius			: 8700 (Picometers, +3e) 
+
+			Ionization Energy		: 6.184  kJ/mol
+
+			Oxidation States		: 3, 2
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 354  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f13 6s2
+
+			Discovered			: 1879
+
+			Discoverer			: Per Theodor Cleve
+
+			Appearance			: Soft, Ductile, Malleable, Silvery metal
+
+			Name Origin			: Thule, ancient name of Scandinavia.

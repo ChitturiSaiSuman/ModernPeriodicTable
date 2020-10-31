@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Bohrium
+
+			Atomic Number			: 107
+
+			Symbol				: Bh
+
+			Period				: 7
+
+			Group				: 6 [ VII  B ]
+
+			Classification			: Transition Metal
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 264  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: --   W/m/K (at 300K)
+
+			Melting Point			: --  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: --  kJ/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f14
+
+			Discovered			: 1976
+
+			Discoverer			: Heavy Ion Research Laboratory
+
+			Appearance			: Radioactive, Synthetic Metal
+
+			Name Origin			: Named in Honour of Niels Bohr.

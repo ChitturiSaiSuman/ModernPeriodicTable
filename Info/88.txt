@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Radium
+
+			Atomic Number			: 88
+
+			Symbol				: Ra
+
+			Period				: 7
+
+			Group				: 2 [ II A ]
+
+			Classification			: Alkaline - Earth Metal
+
+			State				: Solid
+
+			Atomic Weight			: 226.0254  (g/mol)
+
+			Atomic Volume			: 45.2  (cubic.cm/mol)
+
+			Atomic Radius			: 233  (Picometers)
+
+			Density				: 5
+
+			Electro Negativity		: 0.9
+
+			Electro Conductivity		: 1.0
+
+			Thermal Conductivity		: 18.6  W/m/K (at 300K)
+
+			Melting Point			: 973  K
+
+			Boiling Point			: 1413  K
+
+			Specific Heat			: 0.094  J/g/K    (at 300K)
+
+			Fusion Heat			: 8.37  kJ/mol
+
+			Evaporation Heat		: 136.82  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: 14300 (Picometers, +2e)
+
+			Ionization Energy		: 5.279  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 7s2
+
+			Discovered			: 1898
+
+			Discoverer			: Pierre and Marie Curie - Sklodow
+
+			Appearance			: Silvery - White, Radio Active element
+
+			Name Origin			: Latin: Radius (Ray).

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Plutonium
+
+			Atomic Number			: 94
+
+			Symbol				: Pu
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 244.0642  (g/mol)
+
+			Atomic Volume			: 12.32  (cubic.cm/mol)
+
+			Atomic Radius			: 151  (Picometers)
+
+			Density				: 20.2
+
+			Electro Negativity		: 1.28
+
+			Electro Conductivity		: 0.7
+
+			Thermal Conductivity		: 6.74  W/m/K (at 300K)
+
+			Melting Point			: 914  K
+
+			Boiling Point			: 3505  K
+
+			Specific Heat			: 0.13  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: 108  (Picometers)
+
+			Ionic Radius			: 9300 (Picometers, +4e) , 10800 (Picometers, +3e)
+
+			Ionization Energy		: 6.06  kJ/mol
+
+			Oxidation States		: 6, 5, 4, 3
+
+			Crystal Structure		: Monoclinic ( MCL )
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f6 7s2
+
+			Discovered			: 1940
+
+			Discoverer			: G.T. Seaborg, J.W. Kennedy
+
+			Appearance			: Silvery - White, Radio - Active Metal
+
+			Name Origin			: Named for the planet Pluto.

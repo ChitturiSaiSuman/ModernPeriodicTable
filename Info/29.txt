@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Copper
+
+			Atomic Number			: 29
+
+			Symbol				: Cu
+
+			Period				: 4
+
+			Group				: 11 [ I B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 63.546  (g/mol)
+
+			Atomic Volume			: 7.1  (cubic.cm/mol)
+
+			Atomic Radius			: 128  (Picometers)
+
+			Density				: 8.96
+
+			Electro Negativity		: 1.9
+
+			Electro Conductivity		: 60.7
+
+			Thermal Conductivity		: 401  W/m/K (at 300K)
+
+			Melting Point			: 1356.6  K
+
+			Boiling Point			: 2840  K
+
+			Specific Heat			: 0.385  J/g/K    (at 300K)
+
+			Fusion Heat			: 13.14  kJ/mol
+
+			Evaporation Heat		: 300.5  kJ/mol
+
+			Covalent Radius			: 117  (Picometers)
+
+			Ionic Radius			: 7200  (Picometers, +2e) , 9600 (Picometers, +1e)
+
+			Ionization Energy		: 7.726  kJ/mol
+
+			Oxidation States		: 2, 1
+
+			Crystal Structure		: Face Centered Cubic (FCC)
+
+			Crystal Constant		: 361  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s1
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Malleable, Ductile, Reddish - Brown Metal
+
+			Name Origin			: Symbol from Latin: Cuprum(Island of Cyprus, fame for its Copper Mines)

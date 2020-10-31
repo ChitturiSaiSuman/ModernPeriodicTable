@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Yttrium
+
+			Atomic Number			: 39
+
+			Symbol				: Y
+
+			Period				: 5
+
+			Group				: 3 [ III B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 88.90585  (g/mol)
+
+			Atomic Volume			: 19.8  (cubic.cm/mol)
+
+			Atomic Radius			: 178  (Picometers)
+
+			Density				: 4.47
+
+			Electro Negativity		: 1.22
+
+			Electro Conductivity		: 1.8
+
+			Thermal Conductivity		: 17.2  W/m/K (at 300K)
+
+			Melting Point			: 1795  K
+
+			Boiling Point			: 3611  K
+
+			Specific Heat			: 0.3  J/g/K    (at 300K)
+
+			Fusion Heat			: 17.15  kJ/mol
+
+			Evaporation Heat		: 393.3  kJ/mol
+
+			Covalent Radius			: 162  (Picometers)
+
+			Ionic Radius			: 8930  (Picometers, +3e) 
+
+			Ionization Energy		: 6.38  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 365  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d1 5s2
+
+			Discovered			: 1789
+
+			Discoverer			: Johann Gadolin
+
+			Appearance			: Silvery, Ductile, Fairly Reactive Metal
+
+			Name Origin			: The Swedish village, Ytterby, where one of ists mineral was first found.

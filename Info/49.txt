@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Indium
+
+			Atomic Number			: 49
+
+			Symbol				: In
+
+			Period				: 5
+
+			Group				: 13 [ III A ]
+
+			Classification			: Other - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 114.818  (g/mol)
+
+			Atomic Volume			: 15.7  (cubic.cm/mol)
+
+			Atomic Radius			: 1.66  (Picometers)
+
+			Density				: 7.31
+
+			Electro Negativity		: 1.78
+
+			Electro Conductivity		: 3.4
+
+			Thermal Conductivity		: 81.6  W/m/K (at 300K)
+
+			Melting Point			: 429.32  K
+
+			Boiling Point			: 2353  K
+
+			Specific Heat			: 0.233  J/g/K    (at 300K)
+
+			Fusion Heat			: 3.26  kJ/mol
+
+			Evaporation Heat		: 226.35  kJ/mol
+
+			Covalent Radius			: 144  (Picometers)
+
+			Ionic Radius			: 8100  (Picometers, +3e) 
+
+			Ionization Energy		: 5.786  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Tetragonal (TET)
+
+			Crystal Constant		: 459  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2 5p1
+
+			Discovered			: 1863
+
+			Discoverer			: Ferdinand Reich, T. Richter
+
+			Appearance			: Very Soft, Silvery - White metal
+
+			Name Origin			: Latin: Indicum (Color Indigo), The color it shows in a spectroscope.

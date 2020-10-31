@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Osmium
+
+			Atomic Number			: 76
+
+			Symbol				: Os
+
+			Period				: 6
+
+			Group				: 8 [ VIII ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 190.23  (g/mol)
+
+			Atomic Volume			: 8.43  (cubic.cm/mol)
+
+			Atomic Radius			: 135  (Picometers)
+
+			Density				: 22.6
+
+			Electro Negativity		: 2.2
+
+			Electro Conductivity		: 12.3
+
+			Thermal Conductivity		: 87.6  W/m/K (at 300K)
+
+			Melting Point			: 3327  K
+
+			Boiling Point			: 5300  K
+
+			Specific Heat			: 0.13  J/g/K    (at 300K)
+
+			Fusion Heat			: 29.29  kJ/mol
+
+			Evaporation Heat		: 627.6  kJ/mol
+
+			Covalent Radius			: 126  (Picometers)
+
+			Ionic Radius			: 6900 (Picometers, +6e) , 8800 (Picometers, +4e)
+
+			Ionization Energy		: 8.7  kJ/mol
+
+			Oxidation States		: 8, 6, 4, 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 274  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d6 6s2
+
+			Discovered			: 1804
+
+			Discoverer			: Smithson Tenant
+
+			Appearance			: Blue-White, Lustrous, Hard Metal
+
+			Name Origin			: Greek: Osme (Odor).

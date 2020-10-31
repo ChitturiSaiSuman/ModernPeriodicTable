@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Rutherfordium
+
+			Atomic Number			: 104
+
+			Symbol				: Rf
+
+			Period				: 7
+
+			Group				: 4 [ IV  B ]
+
+			Classification			: Transitional Metal
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 261  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0   W/m/K (at 300K)
+
+			Melting Point			: --  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: --  kJ/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f14 6d2 7s2
+
+			Discovered			: 1969
+
+			Discoverer			: A. Ghiorso
+
+			Appearance			: Radioactive Synthetic Metal
+
+			Name Origin			: Named in Honour Ernest Ruthorford.

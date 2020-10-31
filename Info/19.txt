@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Potassium
+
+			Atomic Number			: 19
+
+			Symbol				: K
+
+			Period				: 4
+
+			Group				: 1 [ I A]
+
+			Classification			: Alkali Metal
+
+			State				: Solid
+
+			Atomic Weight			: 39.0983  (g/mol)
+
+			Atomic Volume			: 45.3  (cubic.cm/mol)
+
+			Atomic Radius			: 235  (Picometers)
+
+			Density				: 0.86
+
+			Electro Negativity		: 0.82
+
+			Electro Conductivity		: 16.4
+
+			Thermal Conductivity		: 102.5  W/m/K (at 300K)
+
+			Melting Point			: 336.8  K
+
+			Boiling Point			: 1047  K
+
+			Specific Heat			: 0.757  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.33  kJ/mol
+
+			Evaporation Heat		: 76.9  kJ/mol
+
+			Covalent Radius			: 203  (Picometers)
+
+			Ionic Radius			: 13300  (Picometers, +1e)
+
+			Ionization Energy		: 4.341  kJ/mol
+
+			Oxidation States		: 1
+
+			Crystal Structure		: Body Centred Cubic (BCC)
+
+			Crystal Constant		: 523  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 4s1
+
+			Discovered			: 1807
+
+			Discoverer			: Sir Humphrey Davy
+
+			Appearance			: Soft, Waxy, Silvery - White Metal
+
+			Name Origin			: English: ( Pot ash ) ; Symbol from Latin ; Kalium ( Alkali )

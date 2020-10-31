@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Molybdenum
+
+			Atomic Number			: 42
+
+			Symbol				: Mo
+
+			Period				: 5
+
+			Group				: 6 [ VI B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 95.94  (g/mol)
+
+			Atomic Volume			: 9.4  (cubic.cm/mol)
+
+			Atomic Radius			: 139  (Picometers)
+
+			Density				: 10.22
+
+			Electro Negativity		: 2.16
+
+			Electro Conductivity		: 17.3
+
+			Thermal Conductivity		: 138  W/m/K (at 300K)
+
+			Melting Point			: 2890  K
+
+			Boiling Point			: 4885  K
+
+			Specific Heat			: 0.25  J/g/K    (at 300K)
+
+			Fusion Heat			: 36  kJ/mol
+
+			Evaporation Heat		: 590.4  kJ/mol
+
+			Covalent Radius			: 130  (Picometers)
+
+			Ionic Radius			: 6200  (Picometers, +6e) , 7000 (Picometers, +4e)
+
+			Ionization Energy		: 7.099  kJ/mol
+
+			Oxidation States		: 6, 5, 4, 3
+
+			Crystal Structure		: Body-Centered Cubic
+
+			Crystal Constant		: 315  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d5 5s1
+
+			Discovered			: 1778
+
+			Discoverer			: Carl Wilhelm Scheele
+
+			Appearance			: Silvery - White , Hard Metal
+
+			Name Origin			: Greek: Molybdos ( Lead ).

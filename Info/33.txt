@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Arsenic
+
+			Atomic Number			: 33
+
+			Symbol				: As
+
+			Period				: 4
+
+			Group				: 15 [ V A ]
+
+			Classification			: Semi - Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 74.92159  (g/mol)
+
+			Atomic Volume			: 13.1  (cubic.cm/mol)
+
+			Atomic Radius			: 139  (Picometers)
+
+			Density				: 5.78
+
+			Electro Negativity		: 2.18
+
+			Electro Conductivity		: 3.8
+
+			Thermal Conductivity		: 50  W/m/K (at 300K)
+
+			Melting Point			: 1090  K
+
+			Boiling Point			: 876  K
+
+			Specific Heat			: 0.33  J/g/K    (at 300K)
+
+			Fusion Heat			: 27.7  kJ/mol
+
+			Evaporation Heat		: 32.4  kJ/mol
+
+			Covalent Radius			: 120  (Picometers)
+
+			Ionic Radius			: 4600  (Picometers, +5e)  , 22200 (Picometers, -3e)
+
+			Ionization Energy		: 9.81  kJ/mol
+
+			Oxidation States		: 5, 3, -2
+
+			Crystal Structure		: Rhombohedral ( RHL )
+
+			Crystal Constant		: 413  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s2 4p3
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Steel-Gray, Brittle Semi Metal
+
+			Name Origin			: Greek: Arsenikon; Latin: Arsenicum , (Both names for Yellow Pigment).

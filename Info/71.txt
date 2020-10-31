@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Lutetium
+
+			Atomic Number			: 71
+
+			Symbol				: Lu
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Metal (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 174.967  (g/mol)
+
+			Atomic Volume			: 17.8  (cubic.cm/mol)
+
+			Atomic Radius			: 175  (Picometers)
+
+			Density				: 9.84
+
+			Electro Negativity		: 1.27
+
+			Electro Conductivity		: 1.5
+
+			Thermal Conductivity		: 16.4  W/m/K (at 300K)
+
+			Melting Point			: 1936  K
+
+			Boiling Point			: 3668  K
+
+			Specific Heat			: 0.15  J/g/K    (at 300K)
+
+			Fusion Heat			: 18.6  kJ/mol
+
+			Evaporation Heat		: 355  kJ/mol
+
+			Covalent Radius			: 156  (Picometers)
+
+			Ionic Radius			: 8500 (Picometers, +3e) 
+
+			Ionization Energy		: 5.43  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 351  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d1 6s2
+
+			Discovered			: 1907
+
+			Discoverer			: Georges Urbain
+
+			Appearance			: Silvery - White, Hard, Dense, Rare-Earth Metal
+
+			Name Origin			: Named for the ancient name of Paris, Lutecia.

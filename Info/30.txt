@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Zinc
+
+			Atomic Number			: 30
+
+			Symbol				: Zn
+
+			Period				: 4
+
+			Group				: 12 [ II B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 65.31  (g/mol)
+
+			Atomic Volume			: 9.2  (cubic.cm/mol)
+
+			Atomic Radius			: 138  (Picometers)
+
+			Density				: 7.13
+
+			Electro Negativity		: 1.65
+
+			Electro Conductivity		: 16.9
+
+			Thermal Conductivity		: 116  W/m/K (at 300K)
+
+			Melting Point			: 692.73  K
+
+			Boiling Point			: 1180  K
+
+			Specific Heat			: 0.388  J/g/K    (at 300K)
+
+			Fusion Heat			: 7.38  kJ/mol
+
+			Evaporation Heat		: 115.3  kJ/mol
+
+			Covalent Radius			: 125  (Picometers)
+
+			Ionic Radius			: 7400  (Picometers, +2e) 
+
+			Ionization Energy		: 9.394  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 266  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Bluish  - Silver, Ductile Metal
+
+			Name Origin			: German: Zinc ( German for tin ).

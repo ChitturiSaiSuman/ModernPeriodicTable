@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Rhodium
+
+			Atomic Number			: 45
+
+			Symbol				: Rh
+
+			Period				: 5
+
+			Group				: 9 [ VIII ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 102.9055  (g/mol)
+
+			Atomic Volume			: 8.3  (cubic.cm/mol)
+
+			Atomic Radius			: 134  (Picometers)
+
+			Density				: 12.41
+
+			Electro Negativity		: 2.28
+
+			Electro Conductivity		: 23
+
+			Thermal Conductivity		: 150  W/m/K (at 300K)
+
+			Melting Point			: 2239  K
+
+			Boiling Point			: 4000  K
+
+			Specific Heat			: 0.242  J/g/K    (at 300K)
+
+			Fusion Heat			: 21.76  kJ/mol
+
+			Evaporation Heat		: 495.39  kJ/mol
+
+			Covalent Radius			: 125  (Picometers)
+
+			Ionic Radius			: 6800  (Picometers, +3e) 
+
+			Ionization Energy		: 7.46  kJ/mol
+
+			Oxidation States		: 5, 4, 3, 2
+
+			Crystal Structure		: Gace-Centered Cubic
+
+			Crystal Constant		: 380  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d8 5s1
+
+			Discovered			: 1803
+
+			Discoverer			: William Wollaston
+
+			Appearance			: Silvery White, Hard metal
+
+			Name Origin			: Greek: Rhodon (Rose). Its salts give a rosy solution.

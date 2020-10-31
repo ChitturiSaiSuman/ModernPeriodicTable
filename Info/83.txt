@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Bismuth
+
+			Atomic Number			: 83
+
+			Symbol				: Bi
+
+			Period				: 6
+
+			Group				: 15 [ V A ]
+
+			Classification			: Other Metal
+
+			State				: Solid
+
+			Atomic Weight			: 208.98037  (g/mol)
+
+			Atomic Volume			: 21.3 (cubic.cm/mol)
+
+			Atomic Radius			: 170  (Picometers)
+
+			Density				: 9.75
+
+			Electro Negativity		: 2.02
+
+			Electro Conductivity		: 0.9
+
+			Thermal Conductivity		: 7.87  W/m/K (at 300K)
+
+			Melting Point			: 544.5 K
+
+			Boiling Point			: 1883  K
+
+			Specific Heat			: 0.122  J/g/K    (at 300K)
+
+			Fusion Heat			: 11  kJ/mol
+
+			Evaporation Heat		: 179  kJ/mol
+
+			Covalent Radius			: 146  (Picometers)
+
+			Ionic Radius			: 7400 (Picometers, +5e) , 9600 (Picometers, +3e)
+
+			Ionization Energy		: 7.289  kJ/mol
+
+			Oxidation States		: 5, 3
+
+			Crystal Structure		: Rhombhohedral (RHL)
+
+			Crystal Constant		: 475  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2 6p3
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients.
+
+			Appearance			: Hard , bittle, steel-gray metal with a pinkish tinge
+
+			Name Origin			: German: bismulum (white mass), now spelled wismut.

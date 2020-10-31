@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Antimony
+
+			Atomic Number			: 51
+
+			Symbol				: Sb
+
+			Period				: 5
+
+			Group				: 15 [ V A ]
+
+			Classification			: Semi-Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 121.76  (g/mol)
+
+			Atomic Volume			: 18.4  (cubic.cm/mol)
+
+			Atomic Radius			: 159  (Picometers)
+
+			Density				: 6.69
+
+			Electro Negativity		: 2.05
+
+			Electro Conductivity		: 2.6
+
+			Thermal Conductivity		: 24.3  W/m/K (at 300K)
+
+			Melting Point			: 903.9  K
+
+			Boiling Point			: 1908  K
+
+			Specific Heat			: 0.207  J/g/K    (at 300K)
+
+			Fusion Heat			: 19.83  kJ/mol
+
+			Evaporation Heat		: 67.97  kJ/mol
+
+			Covalent Radius			: 140  (Picometers)
+
+			Ionic Radius			: 6200  (Picometers, +6e) , 24500 (Picometers, -3e)
+
+			Ionization Energy		: 8.641  kJ/mol
+
+			Oxidation States		: 5, 3, -2
+
+			Crystal Structure		: Rhombohedral (RHL)
+
+			Crystal Constant		: 451  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2 5p3
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Hard, Silvery-White, Brittle Semi Metal
+
+			Name Origin			: Greek: Anti and monos (not alone); symbol from mineral Stibnite.

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Roentgenium
+
+			Atomic Number			: 111
+
+			Symbol				: Rg
+
+			Period				: 7
+
+			Group				: 11 [ I  B ]
+
+			Classification			: Transition Metal
+
+			State				: Artificial (Man Made)
+
+			Atomic Weight			: 272  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: --  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 0
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: --   W/m/K (at 300K)
+
+			Melting Point			: --  K
+
+			Boiling Point			: --  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: N/A
+
+			Ionization Energy		: --  kJ/mol
+
+			Oxidation States		: N/A
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f14 6d10 7s1
+
+			Discovered			: 1994
+
+			Discoverer			: heavy Ion Research Laboratory
+
+			Appearance			: N/A (Unununium - Uuu)
+
+			Name Origin			: Named in honor of Wilhelm Conrad Roentgen, Discoverer of X-Rays.

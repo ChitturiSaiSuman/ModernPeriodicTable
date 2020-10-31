@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Actinium
+
+			Atomic Number			: 89
+
+			Symbol				: Ac
+
+			Period				: 7
+
+			Group				: 3 [ III B ]
+
+			Classification			: Radioactive Rare Earth Element ( Actinide - Series )
+
+			State				: Solid
+
+			Atomic Weight			: 227.0278  (g/mol)
+
+			Atomic Volume			: 22.5  (cubic.cm/mol)
+
+			Atomic Radius			: 188  (Picometers)
+
+			Density				: 10.07
+
+			Electro Negativity		: 1.1
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 12  W/m/K (at 300K)
+
+			Melting Point			: 1320  K
+
+			Boiling Point			: 3470  K
+
+			Specific Heat			: 0.12  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: --  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: 11800 (Picometers, +3e)
+
+			Ionization Energy		: 5.17  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Face-Centered Cubic
+
+			Crystal Constant		: 5.31  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 6d1 7s2
+
+			Discovered			: 1899
+
+			Discoverer			: Andre-Louis Debierne
+
+			Appearance			: Heavy, Silvery - White Metal that is very RadioActive
+
+			Name Origin			: Greek: akis, aktinos (Ray).

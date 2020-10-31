@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Astatine
+
+			Atomic Number			: 85
+
+			Symbol				: At
+
+			Period				: 6
+
+			Group				: 17 [ VII A ]
+
+			Classification			: Halogen
+
+			State				: Solid
+
+			Atomic Weight			: 209.9871  (g/mol)
+
+			Atomic Volume			: --
+
+			Atomic Radius			: 145 (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 2.2
+
+			Electro Conductivity		:  --
+
+			Thermal Conductivity		: 1.7 W/m/K (at 300K)
+
+			Melting Point			: 575 K
+
+			Boiling Point			: 610  K
+
+			Specific Heat			: --
+
+			Fusion Heat			: 12kJ/mol
+
+			Evaporation Heat		: 30  kJ/mol
+
+			Covalent Radius			: 147  (Picometers)
+
+			Ionic Radius			: 6200 (Picometers, +7e) 
+
+			Ionization Energy		: ---------
+
+			Oxidation States		: 7,5,3,1
+
+			Crystal Structure		: N/A
+
+			Crystal Constant		: 0
+
+			Electronic Configuration	: [ Xe ] 4f14 5d10 6s2 6p5
+
+			Discovered			: 1940
+
+			Discoverer			: D.R.Carason, K.R.Mackenzie, Emilio Segre.
+
+			Appearance			: Unstable, Radio active halogen
+
+			Name Origin			: Greek: Astatos(un-stable)

@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Tantalum
+
+			Atomic Number			: 73
+
+			Symbol				: Ta
+
+			Period				: 6
+
+			Group				: 5 [ V B ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 180.9479  (g/mol)
+
+			Atomic Volume			: 10.9  (cubic.cm/mol)
+
+			Atomic Radius			: 149  (Picometers)
+
+			Density				: 16.85
+
+			Electro Negativity		: 1.5
+
+			Electro Conductivity		: 8.1
+
+			Thermal Conductivity		: 57.5  W/m/K (at 300K)
+
+			Melting Point			: 3269  K
+
+			Boiling Point			: 5698  K
+
+			Specific Heat			: 0.14  J/g/K    (at 300K)
+
+			Fusion Heat			: 36  kJ/mol
+
+			Evaporation Heat		: 737  kJ/mol
+
+			Covalent Radius			: 134  (Picometers)
+
+			Ionic Radius			: 6800 (Picometers, +5e) 
+
+			Ionization Energy		: 7.89  kJ/mol
+
+			Oxidation States		: 5
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 331  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d3 6s2
+
+			Discovered			: 1802
+
+			Discoverer			: Andera Ekeberg
+
+			Appearance			: Gray, Heavy, Hard Metal
+
+			Name Origin			: King Tantalus of Greek mythology, father of Niobe.

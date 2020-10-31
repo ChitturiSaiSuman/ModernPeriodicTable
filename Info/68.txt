@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Erbium
+
+			Atomic Number			: 68
+
+			Symbol				: Er
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Metal (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 167.26  (g/mol)
+
+			Atomic Volume			: 18.4  (cubic.cm/mol)
+
+			Atomic Radius			: 178  (Picometers)
+
+			Density				: 9.07
+
+			Electro Negativity		: 1.24
+
+			Electro Conductivity		: 1.2
+
+			Thermal Conductivity		: 14.3  W/m/K (at 300K)
+
+			Melting Point			: 1802  K
+
+			Boiling Point			: 3136  K
+
+			Specific Heat			: 0.168  J/g/K    (at 300K)
+
+			Fusion Heat			: 17.15  kJ/mol
+
+			Evaporation Heat		: 292.88  kJ/mol
+
+			Covalent Radius			: 157  (Picometers)
+
+			Ionic Radius			: 8810 (Picometers, +3e) 
+
+			Ionization Energy		: 6.101  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 356  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f12 6s2
+
+			Discovered			: 1843
+
+			Discoverer			: Carl Mosander
+
+			Appearance			: Soft, Malleable, Silvery metal
+
+			Name Origin			: Named after the Swedish town, Ytterby.

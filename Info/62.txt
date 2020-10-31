@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Samarium
+
+			Atomic Number			: 62
+
+			Symbol				: Sm
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare-Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 150.36  (g/mol)
+
+			Atomic Volume			: 19.9  (cubic.cm/mol)
+
+			Atomic Radius			: 181  (Picometers)
+
+			Density				: 7.52
+
+			Electro Negativity		: 1.17
+
+			Electro Conductivity		: 1.1
+
+			Thermal Conductivity		: 13.3  W/m/K (at 300K)
+
+			Melting Point			: 1350  K
+
+			Boiling Point			: 2064  K
+
+			Specific Heat			: 0.197  J/g/K    (at 300K)
+
+			Fusion Heat			: 11.09  kJ/mol
+
+			Evaporation Heat		: 191.63  kJ/mol
+
+			Covalent Radius			: 162  (Picometers)
+
+			Ionic Radius			: 9640 (Picometers, +3e) 
+
+			Ionization Energy		: 5.63  kJ/mol
+
+			Oxidation States		: 3, 2
+
+			Crystal Structure		: Rhombohedral (RHL)
+
+			Crystal Constant		: 900  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f6 6s2
+
+			Discovered			: 1853
+
+			Discoverer			: Jean Charles Galissard de Mari
+
+			Appearance			: Silvery rare-earth Metal
+
+			Name Origin			: Named after the mineral samarskite.

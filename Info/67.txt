@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Holmium
+
+			Atomic Number			: 67
+
+			Symbol				: Ho
+
+			Period				: 6
+
+			Group				: 3 [ III B ]
+
+			Classification			: Rare Earth Element (Lanthanide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 164.93  (g/mol)
+
+			Atomic Volume			: 18.7  (cubic.cm/mol)
+
+			Atomic Radius			: 179  (Picometers)
+
+			Density				: 8.8
+
+			Electro Negativity		: 1.23
+
+			Electro Conductivity		: 1.1
+
+			Thermal Conductivity		: 16.2  W/m/K (at 300K)
+
+			Melting Point			: 1747  K
+
+			Boiling Point			: 2968  K
+
+			Specific Heat			: 0.165  J/g/K    (at 300K)
+
+			Fusion Heat			: 17.15  kJ/mol
+
+			Evaporation Heat		: 251.04  kJ/mol
+
+			Covalent Radius			: 158  (Picometers)
+
+			Ionic Radius			: 8940 (Picometers, +3e) 
+
+			Ionization Energy		: 6.02  kJ/mol
+
+			Oxidation States		: 3
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 358  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f11 6s2
+
+			Discovered			: 1878
+
+			Discoverer			: J.L. Soret
+
+			Appearance			: Fairy Soft, Malleable, Lustrous Silvery metal
+
+			Name Origin			: Holmia, the lanthanised name for stockholm, Sweden.

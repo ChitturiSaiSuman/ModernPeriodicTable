@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Uranium
+
+			Atomic Number			: 92
+
+			Symbol				: U
+
+			Period				: 7
+
+			Group				: 3 [ III  B ]
+
+			Classification			: Radioactive Rare Earth Element (Actinide Series)
+
+			State				: Solid
+
+			Atomic Weight			: 238.0289  (g/mol)
+
+			Atomic Volume			: 12.5  (cubic.cm/mol)
+
+			Atomic Radius			: 138  (Picometers)
+
+			Density				: 18.95
+
+			Electro Negativity		: 1.38
+
+			Electro Conductivity		: 3.6
+
+			Thermal Conductivity		: 27.6  W/m/K (at 300K)
+
+			Melting Point			: 1405.5  K
+
+			Boiling Point			: 4018  K
+
+			Specific Heat			: 0.12  J/g/K    (at 300K)
+
+			Fusion Heat			: 15.48  kJ/mol
+
+			Evaporation Heat		: 422.58  kJ/mol
+
+			Covalent Radius			: 142  (Picometers)
+
+			Ionic Radius			: 8000 (Picometers, +6e) , 9700 (Picometers, +4e)
+
+			Ionization Energy		: 6.05  kJ/mol
+
+			Oxidation States		: 6, 5, 4, 3
+
+			Crystal Structure		: Orthorhombic (ORC)
+
+			Crystal Constant		: 285  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 5f3 6d1 7s2
+
+			Discovered			: 1789
+
+			Discoverer			: Martin Klaproth
+
+			Appearance			: Silvery-White, Dense, Ductile and Malleable, radioactive metal
+
+			Name Origin			: Named for the planet Uranus.

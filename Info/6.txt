@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Carbon
+
+			Atomic Number			: 6
+
+			Symbol				: C
+
+			Period				: 2
+
+			Group				: 14 [ IV A]
+
+			Classification			: Non - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 12.011  (g/mol)
+
+			Atomic Volume			: 5.3  (cubic.cm/mol)
+
+			Atomic Radius			: 0.0091 (Picometers)
+
+			Density				: 2.26 (Gas, 273K, g/l)
+
+			Electro Negativity		: 2.55
+
+			Electro Conductivity		: 0.07
+
+			Thermal Conductivity		: 80  W/m/K (at 300K)
+
+			Melting Point			: 3820  K
+
+			Boiling Point			: 5100  K
+
+			Specific Heat			: 0.709  J/g/K    (at 300K)
+
+			Fusion Heat			: --  kJ/mol
+
+			Evaporation Heat		: 715  kJ/mol
+
+			Covalent Radius			: 0.0077  (Picometers)
+
+			Ionic Radius			: 1600  (Picometers, +4e), 26000  (Picometers, -4e)
+
+			Ionization Energy		: 11.26  kJ/mol
+
+			Oxidation States		: 4, 2, -4
+
+			Crystal Structure		: Diagonal ( DIA )
+
+			Crystal Constant		: 0.0357  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s2 2p2
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Dense, Black
+
+			Name Origin			: Latin - Carbo ( Charcoal )

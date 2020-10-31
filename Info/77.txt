@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Iridium
+
+			Atomic Number			: 77
+
+			Symbol				: Ir
+
+			Period				: 6
+
+			Group				: 9 [ VIII ]
+
+			Classification			: Transition Metal
+
+			State				: Solid
+
+			Atomic Weight			: 192.22  (g/mol)
+
+			Atomic Volume			: 8.54  (cubic.cm/mol)
+
+			Atomic Radius			: 136  (Picometers)
+
+			Density				: 22.6
+
+			Electro Negativity		: 2.2
+
+			Electro Conductivity		: 21.3
+
+			Thermal Conductivity		: 147  W/m/K (at 300K)
+
+			Melting Point			: 2683  K
+
+			Boiling Point			: 4403  K
+
+			Specific Heat			: 0.13  J/g/K    (at 300K)
+
+			Fusion Heat			: 26.36  kJ/mol
+
+			Evaporation Heat		: 563.58  kJ/mol
+
+			Covalent Radius			: 127  (Picometers)
+
+			Ionic Radius			: 6800 (Picometers, +4e)
+
+			Ionization Energy		: 9.1  kJ/mol
+
+			Oxidation States		: 6, 4, 3, 2
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 384  (Picometers)
+
+			Electronic Configuration	: [ Xe ] 4f14 5d7 6s2
+
+			Discovered			: 1804
+
+			Discoverer			: Smithson Tenant, A. F. Fourcory, L. N. Va
+
+			Appearance			: White, Brittle Metal
+
+			Name Origin			: Latin: Iris (Rainbow).

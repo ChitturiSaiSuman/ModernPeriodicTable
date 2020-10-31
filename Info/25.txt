@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Manganese
+
+			Atomic Number			: 25
+
+			Symbol				: Mn
+
+			Period				: 4
+
+			Group				: 7 [ VII B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 54.93805  (g/mol)
+
+			Atomic Volume			: 7.39  (cubic.cm/mol)
+
+			Atomic Radius			: 135  (Picometers)
+
+			Density				: 7.44
+
+			Electro Negativity		: 1.55
+
+			Electro Conductivity		: 0.5
+
+			Thermal Conductivity		: 7.82  W/m/K (at 300K)
+
+			Melting Point			: 1517  K
+
+			Boiling Point			: 2235  K
+
+			Specific Heat			: 0.48  J/g/K    (at 300K)
+
+			Fusion Heat			: 14.64  kJ/mol
+
+			Evaporation Heat		: 219.74  kJ/mol
+
+			Covalent Radius			: 117  (Picometers)
+
+			Ionic Radius			: 4600  (Picometers, +7e) , 8000 (Picometers, +2e)
+
+			Ionization Energy		: 7.435  kJ/mol
+
+			Oxidation States		: 7, 6, 4, 3
+
+			Crystal Structure		: Cubic ( CUB )
+
+			Crystal Constant		: 889  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d5 4s2
+
+			Discovered			: 1774
+
+			Discoverer			: Johann Gahn
+
+			Appearance			: Hard, Brittle, Gray - White metal
+
+			Name Origin			: Latin: magnes ( Magnet ) ; Italian : Manganese

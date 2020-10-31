@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Beryllium
+
+			Atomic Number			: 4
+
+			Symbol				: Be
+
+			Period				: 2
+
+			Group				: 2 [ IIA ]
+
+			Classification			: Alkaline - Earth Metal
+
+			State				: Solid
+
+			Atomic Weight			: 9.01218	(g/mol)
+
+			Atomic Volume			: 5 (cubic.cm/mol)
+
+			Atomic Radius			: 112 (Picometers)
+
+			Density				: 1.85 (Gas, 273K, g/l)
+
+			Electro Negativity		: 1.57
+
+			Electro Conductivity		: 25
+
+			Thermal Conductivity		: 216  W/m/K (at 300K)
+
+			Melting Point			: 1560  K
+
+			Boiling Point			: 3243  K
+
+			Specific Heat			: 1.825  J/g/K    (at 300K)
+
+			Fusion Heat			: 12.2  kJ/mol
+
+			Evaporation Heat		: 292.4  kJ/mol
+
+			Covalent Radius			: 96  (Picometers)
+
+			Ionic Radius			: 190  (Picometers, +2e)
+
+			Ionization Energy		: 899  kJ/mol
+
+			Oxidation States		: +2
+
+			Crystal Structure		: Hexagonal (HEX)
+
+			Crystal Constant		: 228.58  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s2
+
+			Discovered			: 1798
+
+			Discoverer			: Louis - Nicholas Vauquelin
+
+			Appearance			: Hard, Brittle, Steel-gray Metal
+
+			Name Origin			: Greek - Berylios, 'beryl' ( a mineral )

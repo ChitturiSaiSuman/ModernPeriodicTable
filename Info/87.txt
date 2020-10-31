@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Francium
+
+			Atomic Number			: 87
+
+			Symbol				: Fr
+
+			Period				: 7
+
+			Group				: 1 [ I A ]
+
+			Classification			: Alkali Metal
+
+			State				: Solid
+
+			Atomic Weight			: 223.0197  (g/mol)
+
+			Atomic Volume			: --  (cubic.cm/mol)
+
+			Atomic Radius			: 270  (Picometers)
+
+			Density				: --
+
+			Electro Negativity		: 0.7
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 15  W/m/K (at 300K)
+
+			Melting Point			: 300  K
+
+			Boiling Point			: 950  K
+
+			Specific Heat			: --  J/g/K    (at 300K)
+
+			Fusion Heat			: 2.1  kJ/mol
+
+			Evaporation Heat		: 64  kJ/mol
+
+			Covalent Radius			: --  (Picometers)
+
+			Ionic Radius			: 18000 (Picometers, +1e)
+
+			Ionization Energy		: --  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: Body - Centered Cubic
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 7s1
+
+			Discovered			: 1939
+
+			Discoverer			: Marguerite Derey
+
+			Appearance			: N/A
+
+			Name Origin			: Named for France, the Nation of its Discovery.

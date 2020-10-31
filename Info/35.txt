@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Bromine
+
+			Atomic Number			: 35
+
+			Symbol				: Br
+
+			Period				: 4
+
+			Group				: 17 [ VII A ]
+
+			Classification			: Halogen
+
+			State				: Liqiud
+
+			Atomic Weight			: 79.904  (g/mol)
+
+			Atomic Volume			: 23.5  (cubic.cm/mol)
+
+			Atomic Radius			: 112 (Picometers)
+
+			Density				: 3.12
+
+			Electro Negativity		: 2.96
+
+			Electro Conductivity		: 10e - 16
+
+			Thermal Conductivity		: 0.122  W/m/K (at 300K)
+
+			Melting Point			: 265.9  K
+
+			Boiling Point			: 331.9  K
+
+			Specific Heat			: 0.266  J/g/K    (at 300K)
+
+			Fusion Heat			: 5.286  kJ/mol
+
+			Evaporation Heat		: 14.725  kJ/mol
+
+			Covalent Radius			: 114  (Picometers)
+
+			Ionic Radius			: 4700  (Picometers, +5e) , 19600 (Picometers, -1e) 
+
+			Ionization Energy		: 11.814  kJ/mol
+
+			Oxidation States		: 7, 5, 3, 1
+
+			Crystal Structure		: OrthoRhombic (ORC)
+
+			Crystal Constant		: 667  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d10 4s2 4p5
+
+			Discovered			: 1826
+
+			Discoverer			: Antoine J. Balard
+
+			Appearance			: Reddish-Brown Liquid
+
+			Name Origin			: Greek : Bromos (stench).

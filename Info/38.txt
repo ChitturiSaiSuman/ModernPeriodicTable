@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Strontium
+
+			Atomic Number			: 38
+
+			Symbol				: Sr
+
+			Period				: 5
+
+			Group				: 2 [ II A ]
+
+			Classification			: Alkaline-Earth Metal
+
+			State				: Solid
+
+			Atomic Weight			: 87.62  (g/mol)
+
+			Atomic Volume			: 33.7  (cubic.cm/mol)
+
+			Atomic Radius			: 215  (Picometers)
+
+			Density				: 2.54
+
+			Electro Negativity		: 0.95
+
+			Electro Conductivity		: 5.0
+
+			Thermal Conductivity		: 35.3  W/m/K (at 300K)
+
+			Melting Point			: 1042  K
+
+			Boiling Point			: 1657  K
+
+			Specific Heat			: 0.3  J/g/K    (at 300K)
+
+			Fusion Heat			: 8.2  kJ/mol
+
+			Evaporation Heat		: 136.9  kJ/mol
+
+			Covalent Radius			: 191  (Picometers)
+
+			Ionic Radius			: 11200  (Picometers, +2e) 
+
+			Ionization Energy		: 5.695  kJ/mol
+
+			Oxidation States		: 2
+
+			Crystal Structure		: Face-Centered Cubic
+
+			Crystal Constant		: 608  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 5s2
+
+			Discovered			: 1790
+
+			Discoverer			: A. Crawford
+
+			Appearance			: Silvery, Malleable metal
+
+			Name Origin			: The Scottish Town, Strontian.

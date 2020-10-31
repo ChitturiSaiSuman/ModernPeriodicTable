@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Vanadium
+
+			Atomic Number			: 23
+
+			Symbol				: V
+
+			Period				: 4
+
+			Group				: 5 [ V B]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 50.9415  (g/mol)
+
+			Atomic Volume			: 8.35  (cubic.cm/mol)
+
+			Atomic Radius			: 134  (Picometers)
+
+			Density				: 6.11
+
+			Electro Negativity		: 1.63
+
+			Electro Conductivity		: 4.0
+
+			Thermal Conductivity		: 30.7  W/m/K (at 300K)
+
+			Melting Point			: 2160  K
+
+			Boiling Point			: 3650  K
+
+			Specific Heat			: 0.489  J/g/K    (at 300K)
+
+			Fusion Heat			: 22.8  kJ/mol
+
+			Evaporation Heat		: 446.7  kJ/mol
+
+			Covalent Radius			: 122  (Picometers)
+
+			Ionic Radius			: 5900  (Picometers, +5e) , 7400 (Picometers, +3e)
+
+			Ionization Energy		: 6.74  kJ/mol
+
+			Oxidation States		: 5, 4, 3, 2
+
+			Crystal Structure		: Body Centered Cubic
+
+			Crystal Constant		: 302  (Picometers)
+
+			Electronic Configuration	: [ Ar ] 3d3 4s2
+
+			Discovered			: 1830
+
+			Discoverer			: Nils Gabriel Sefstrom
+
+			Appearance			: Soft, Ductile, Silvery - White metal
+
+			Name Origin			: The Scandinavian goddess, Vanadis.

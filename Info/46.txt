@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Palladium
+
+			Atomic Number			: 46
+
+			Symbol				: Pd
+
+			Period				: 5
+
+			Group				: 10 [ VIII ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 106.42  (g/mol)
+
+			Atomic Volume			: 8.9  (cubic.cm/mol)
+
+			Atomic Radius			: 137  (Picometers)
+
+			Density				: 12
+
+			Electro Negativity		: 2.2
+
+			Electro Conductivity		: 10.0
+
+			Thermal Conductivity		: 71.8  W/m/K (at 300K)
+
+			Melting Point			: 1825  K
+
+			Boiling Point			: 3413  K
+
+			Specific Heat			: 0.244  J/g/K    (at 300K)
+
+			Fusion Heat			: 16.74  kJ/mol
+
+			Evaporation Heat		: 393.3  kJ/mol
+
+			Covalent Radius			: 128  (Picometers)
+
+			Ionic Radius			: 6500  (Picometers, +4e) , 8000 (Picometers, +2e)
+
+			Ionization Energy		: 8.34  kJ/mol
+
+			Oxidation States		: 4, 2, 0
+
+			Crystal Structure		: Face-Centered Cubic
+
+			Crystal Constant		: 389  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10
+
+			Discovered			: 1803
+
+			Discoverer			: William Wollaston
+
+			Appearance			: Silvery - White, soft, malleable and ductile metal
+
+			Name Origin			: named after the Asteroid, Pallas,discovered in 1803.

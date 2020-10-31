@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Fluorine
+
+			Atomic Number			: 9
+
+			Symbol				: F
+
+			Period				: 2
+
+			Group				: 17 [ VII A]
+
+			Classification			: Halogen
+
+			State				: Gas
+
+			Atomic Weight			: 18.998403  (g/mol)
+
+			Atomic Volume			: 17.1  (cubic.cm/mol)
+
+			Atomic Radius			: 57  (Picometers)
+
+			Density				: 1.696  (Gas, 273K, g/l)
+
+			Electro Negativity		: 3.98
+
+			Electro Conductivity		: --
+
+			Thermal Conductivity		: 0.0279  W/m/K (at 300K)
+
+			Melting Point			: 53.53  K
+
+			Boiling Point			: 85.01  K
+
+			Specific Heat			: 0.824  J/g/K    (at 300K)
+
+			Fusion Heat			: 0.26  kJ/mol
+
+			Evaporation Heat		: 3.2698  kJ/mol
+
+			Covalent Radius			: 72  (Picometers)
+
+			Ionic Radius			: 13300  (Picometers, -1e)
+
+			Ionization Energy		: 17.422  kJ/mol
+
+			Oxidation States		: -1
+
+			Crystal Structure		: Mono Clinic ( MCL )
+
+			Crystal Constant		: 0  (Picometers)
+
+			Electronic Configuration	: [ He ] 2s2 2p5
+
+			Discovered			: 1886
+
+			Discoverer			: Henri Moissan
+
+			Appearance			: Greenish - Yellow, Pungent, Porosive gas
+
+			Name Origin			: Latin - Fluere ( Flow )

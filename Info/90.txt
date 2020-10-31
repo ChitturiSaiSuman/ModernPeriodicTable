@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Thorium
+
+			Atomic Number			: 90
+
+			Symbol				: Th
+
+			Period				: 7
+
+			Group				: 3 [ III B ]
+
+			Classification			: RadioActive RareEarth Element ( Actinide Series )
+
+			State				: Solid
+
+			Atomic Weight			: 232.0381  (g/mol)
+
+			Atomic Volume			: 19.9  (cubic.cm/mol)
+
+			Atomic Radius			: 180  (Picometers)
+
+			Density				: 11.72
+
+			Electro Negativity		: 1.3
+
+			Electro Conductivity		: 7.1
+
+			Thermal Conductivity		: 54  W/m/K (at 300K)
+
+			Melting Point			: 2028  K
+
+			Boiling Point			: 5060  K
+
+			Specific Heat			: 0.113  J/g/K    (at 300K)
+
+			Fusion Heat			: 15.65  kJ/mol
+
+			Evaporation Heat		: 543.92  kJ/mol
+
+			Covalent Radius			: 165  (Picometers)
+
+			Ionic Radius			: 10200 (Picometers, +4e)
+
+			Ionization Energy		: 6.08  kJ/mol
+
+			Oxidation States		: 4
+
+			Crystal Structure		: Face-Centered Cubic
+
+			Crystal Constant		: 508  (Picometers)
+
+			Electronic Configuration	: [ Rn ] 6d2 7s2
+
+			Discovered			: 1828
+
+			Discoverer			: Jons Jacob Berzelius
+
+			Appearance			: Gray, Soft, Malleable, Ductile, Radioactive Metal
+
+			Name Origin			: Named for Thor, Norse god of Thunder.

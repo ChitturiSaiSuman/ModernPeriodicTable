@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Tellurium
+
+			Atomic Number			: 52
+
+			Symbol				: Te
+
+			Period				: 5
+
+			Group				: 16 [ VI A ]
+
+			Classification			: Semi Metallic
+
+			State				: Solid
+
+			Atomic Weight			: 127.6  (g/mol)
+
+			Atomic Volume			: 20.5  (cubic.cm/mol)
+
+			Atomic Radius			: 142  (Picometers)
+
+			Density				: 6.24
+
+			Electro Negativity		: 2.1
+
+			Electro Conductivity		: 2 x 10e - 4
+
+			Thermal Conductivity		: 2.35  W/m/K (at 300K)
+
+			Melting Point			: 722.7  K
+
+			Boiling Point			: 1263  K
+
+			Specific Heat			: 0.202  J/g/K    (at 300K)
+
+			Fusion Heat			: 17.49  kJ/mol
+
+			Evaporation Heat		: 50.63  kJ/mol
+
+			Covalent Radius			: 136  (Picometers)
+
+			Ionic Radius			: 5600  (Picometers, +6e) , 21100 (Picometers, -2e)
+
+			Ionization Energy		: 9.009  kJ/mol
+
+			Oxidation States		: 6, 4, 2
+
+			Crystal Structure		: Hexagonal ( HEX )
+
+			Crystal Constant		: 445  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s2 5p4
+
+			Discovered			: 1782
+
+			Discoverer			: Franz Joseph Meller von Reiche
+
+			Appearance			: Silvery - White, Brittle Semimetal
+
+			Name Origin			: Latin: tellus (earth).

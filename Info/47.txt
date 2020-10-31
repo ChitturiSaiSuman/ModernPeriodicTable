@@ -1,0 +1,61 @@
+
+
+			Name of the Element		: Silver
+
+			Atomic Number			: 47
+
+			Symbol				: Ag
+
+			Period				: 5
+
+			Group				: 11 [ I B ]
+
+			Classification			: Transition - Metal
+
+			State				: Solid
+
+			Atomic Weight			: 107.8682  (g/mol)
+
+			Atomic Volume			: 10.3  (cubic.cm/mol)
+
+			Atomic Radius			: 144  (Picometers)
+
+			Density				: 10.5
+
+			Electro Negativity		: 1.93
+
+			Electro Conductivity		: 62.9
+
+			Thermal Conductivity		: 429  W/m/K (at 300K)
+
+			Melting Point			: 1235.1  K
+
+			Boiling Point			: 2485  K
+
+			Specific Heat			: 0.235  J/g/K    (at 300K)
+
+			Fusion Heat			: 11.3  kJ/mol
+
+			Evaporation Heat		: 250.6  kJ/mol
+
+			Covalent Radius			: 134  (Picometers)
+
+			Ionic Radius			: 8900  (Picometers, +2e) , 12600 (Picometers, +1e)
+
+			Ionization Energy		: 7.576  kJ/mol
+
+			Oxidation States		: 2, 1
+
+			Crystal Structure		: Face - Centered Cubic
+
+			Crystal Constant		: 409  (Picometers)
+
+			Electronic Configuration	: [ Kr ] 4d10 5s1
+
+			Discovered			: N/A
+
+			Discoverer			: Known to the Ancients
+
+			Appearance			: Silvery - Ductile, and Malleable metal
+
+			Name Origin			: Anglo-Saxon: Siolful, (Silvery);Symbol from Latin: Argentium
